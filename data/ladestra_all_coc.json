@@ -1,0 +1,2531 @@
+[{
+        "count": "681",
+        "name": "destra",
+        "key": "destra",
+        "pages": [
+            {
+                "name": "sito",
+                "key": "sito",
+                "count": 185
+            },
+            {
+                "name": "ufficiale",
+                "key": "ufficiale",
+                "count": 183
+            },
+            {
+                "name": "unita",
+                "key": "unita",
+                "count": 50
+            },
+            {
+                "name": "giornaleditalia",
+                "key": "giornaleditalia",
+                "count": 33
+            },
+            {
+                "name": "italiana",
+                "key": "italiana",
+                "count": "32"
+            },
+            {
+                "name": "sociale",
+                "key": "sociale",
+                "count": 27
+            },
+            {
+                "name": "vera",
+                "key": "vera",
+                "count": 24
+            },
+            {
+                "name": "destra",
+                "key": "destra",
+                "count": 20
+            },
+            {
+                "name": "ragioni",
+                "key": "ragioni",
+                "count": 19
+            },
+            {
+                "name": "senza",
+                "key": "senza",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "count": "664",
+        "name": "italia",
+        "key": "italia",
+        "pages": [
+            {
+                "name": "giornale",
+                "key": "giornale",
+                "count": "143"
+            },
+            {
+                "name": "fratelli",
+                "key": "fratelli",
+                "count": 124
+            },
+            {
+                "name": "forza",
+                "key": "forza",
+                "count": 116
+            },
+            {
+                "name": "virtualnewspaper",
+                "key": "virtualnewspaper",
+                "count": "99"
+            },
+            {
+                "name": 2014,
+                "key": 2014,
+                "count": "93"
+            },
+            {
+                "name": "presidente",
+                "key": "presidente",
+                "count": "44"
+            },
+            {
+                "name": "giornaleditalia",
+                "key": "giornaleditalia",
+                "count": 39
+            },
+            {
+                "name": "berlusconi",
+                "key": "berlusconi",
+                "count": 29
+            },
+            {
+                "name": "posto",
+                "key": "posto",
+                "count": 28
+            },
+            {
+                "name": "russa",
+                "key": "russa",
+                "count": "27"
+            }
+        ]
+    },
+    {
+        "count": "640",
+        "name": "renzi",
+        "key": "renzi",
+        "pages": [
+            {
+                "name": "delrio",
+                "key": "delrio",
+                "count": "43"
+            },
+            {
+                "name": "annunziata",
+                "key": "annunziata",
+                "count": "43"
+            },
+            {
+                "name": "economia",
+                "key": "economia",
+                "count": "43"
+            },
+            {
+                "name": "ministro",
+                "key": "ministro",
+                "count": "43"
+            },
+            {
+                "name": "dice",
+                "key": "dice",
+                "count": 42
+            },
+            {
+                "name": "poco",
+                "key": "poco",
+                "count": "33"
+            },
+            {
+                "name": "solo",
+                "key": "solo",
+                "count": 33
+            },
+            {
+                "name": "coraggio",
+                "key": "coraggio",
+                "count": "32"
+            },
+            {
+                "name": "affaccia",
+                "key": "affaccia",
+                "count": "32"
+            },
+            {
+                "name": "trovi",
+                "key": "trovi",
+                "count": "32"
+            }
+        ]
+    },
+    {
+        "count": "388",
+        "name": "roma",
+        "key": "roma",
+        "pages": [
+            {
+                "name": "sindaco",
+                "key": "sindaco",
+                "count": 41
+            },
+            {
+                "name": "marino",
+                "key": "marino",
+                "count": 35
+            },
+            {
+                "name": "regione",
+                "key": "regione",
+                "count": 27
+            },
+            {
+                "name": "capitale",
+                "key": "capitale",
+                "count": 24
+            },
+            {
+                "name": "salva",
+                "key": "salva",
+                "count": "21"
+            },
+            {
+                "name": "giornaleditalia",
+                "key": "giornaleditalia",
+                "count": 20
+            },
+            {
+                "name": "questione",
+                "key": "questione",
+                "count": "16"
+            },
+            {
+                "name": "autorita",
+                "key": "autorita",
+                "count": "16"
+            },
+            {
+                "name": "sbando",
+                "key": "sbando",
+                "count": "16"
+            },
+            {
+                "name": "omniroma",
+                "key": "omniroma",
+                "count": "16"
+            }
+        ]
+    },
+    {
+        "count": "169",
+        "name": "governo",
+        "key": "governo",
+        "pages": [
+            {
+                "name": "renzi",
+                "key": "renzi",
+                "count": 24
+            },
+            {
+                "name": "sinistra",
+                "key": "sinistra",
+                "count": 16
+            },
+            {
+                "name": "monti",
+                "key": "monti",
+                "count": "14"
+            },
+            {
+                "name": "iostoconimaro",
+                "key": "iostoconimaro",
+                "count": "12"
+            },
+            {
+                "name": "caso",
+                "key": "caso",
+                "count": "12"
+            },
+            {
+                "name": "sottosegretario",
+                "key": "sottosegretario",
+                "count": "12"
+            },
+            {
+                "name": "vecchi",
+                "key": "vecchi",
+                "count": "12"
+            },
+            {
+                "name": "forte",
+                "key": "forte",
+                "count": "12"
+            },
+            {
+                "name": "italiano",
+                "key": "italiano",
+                "count": "12"
+            },
+            {
+                "name": "metodi",
+                "key": "metodi",
+                "count": "12"
+            }
+        ]
+    },
+    {
+        "count": "125",
+        "name": "italiani",
+        "key": "italiani",
+        "pages": [
+            {
+                "name": "veri",
+                "key": "veri",
+                "count": 15
+            },
+            {
+                "name": "troppo",
+                "key": "troppo",
+                "count": "13"
+            },
+            {
+                "name": "morti",
+                "key": "morti",
+                "count": "13"
+            },
+            {
+                "name": "ogni",
+                "key": "ogni",
+                "count": 10
+            },
+            {
+                "name": "sangue",
+                "key": "sangue",
+                "count": "9"
+            },
+            {
+                "name": "succhiare",
+                "key": "succhiare",
+                "count": "9"
+            },
+            {
+                "name": "votano",
+                "key": "votano",
+                "count": 7
+            },
+            {
+                "name": "caso",
+                "key": "caso",
+                "count": "7"
+            },
+            {
+                "name": "certo",
+                "key": "certo",
+                "count": 5
+            },
+            {
+                "name": "sanno",
+                "key": "sanno",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "count": "120",
+        "name": "france",
+        "key": "france",
+        "pages": [
+            {
+                "name": "guidocrosetto",
+                "key": "guidocrosetto",
+                "count": 6
+            },
+            {
+                "name": "piace",
+                "key": "piace",
+                "count": 5
+            },
+            {
+                "name": "vincere",
+                "key": "vincere",
+                "count": "4"
+            },
+            {
+                "name": "sindaco",
+                "key": "sindaco",
+                "count": "4"
+            },
+            {
+                "name": "grande",
+                "key": "grande",
+                "count": "4"
+            },
+            {
+                "name": "oscuro",
+                "key": "oscuro",
+                "count": "4"
+            },
+            {
+                "name": "gomblotti",
+                "key": "gomblotti",
+                "count": "4"
+            },
+            {
+                "name": "subito",
+                "key": "subito",
+                "count": "4"
+            },
+            {
+                "name": "chissa",
+                "key": "chissa",
+                "count": "4"
+            },
+            {
+                "name": "tengono",
+                "key": "tengono",
+                "count": "4"
+            }
+        ]
+    },
+    {
+        "count": "118",
+        "name": "popolo",
+        "key": "popolo",
+        "pages": [
+            {
+                "name": "italiano",
+                "key": "italiano",
+                "count": "31"
+            },
+            {
+                "name": "conta",
+                "key": "conta",
+                "count": "19"
+            },
+            {
+                "name": "vicino",
+                "key": "vicino",
+                "count": "8"
+            },
+            {
+                "name": "destra",
+                "key": "destra",
+                "count": 7
+            },
+            {
+                "name": "eletto",
+                "key": "eletto",
+                "count": "5"
+            },
+            {
+                "name": "moto",
+                "key": "moto",
+                "count": 5
+            },
+            {
+                "name": "meriteresti",
+                "key": "meriteresti",
+                "count": "5"
+            },
+            {
+                "name": "indistintamente",
+                "key": "indistintamente",
+                "count": "5"
+            },
+            {
+                "name": "mette",
+                "key": "mette",
+                "count": 5
+            },
+            {
+                "name": "stato",
+                "key": "stato",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "count": "102",
+        "name": "merkel",
+        "key": "merkel",
+        "pages": [
+            {
+                "name": "aprile",
+                "key": "aprile",
+                "count": "12"
+            },
+            {
+                "name": "scorso",
+                "key": "scorso",
+                "count": "12"
+            },
+            {
+                "name": "rassicurava",
+                "key": "rassicurava",
+                "count": "12"
+            },
+            {
+                "name": "elogiava",
+                "key": "elogiava",
+                "count": "12"
+            },
+            {
+                "name": "arriva",
+                "key": "arriva",
+                "count": 9
+            },
+            {
+                "name": "scappa",
+                "key": "scappa",
+                "count": "8"
+            },
+            {
+                "name": "renzi",
+                "key": "renzi",
+                "count": 8
+            },
+            {
+                "name": "giornaleditalia",
+                "key": "giornaleditalia",
+                "count": "8"
+            },
+            {
+                "name": "germania",
+                "key": "germania",
+                "count": "7"
+            },
+            {
+                "name": "televendite",
+                "key": "televendite",
+                "count": "7"
+            }
+        ]
+    },
+    {
+        "count": "93",
+        "name": "lavoro",
+        "key": "lavoro",
+        "pages": [
+            {
+                "name": "padoan",
+                "key": "padoan",
+                "count": "42"
+            },
+            {
+                "name": "conoscono",
+                "key": "conoscono",
+                "count": "42"
+            },
+            {
+                "name": "squadra",
+                "key": "squadra",
+                "count": "42"
+            },
+            {
+                "name": "poverai",
+                "key": "poverai",
+                "count": "40"
+            },
+            {
+                "name": "tasse",
+                "key": "tasse",
+                "count": "10"
+            },
+            {
+                "name": "comunista",
+                "key": "comunista",
+                "count": "10"
+            },
+            {
+                "name": "male",
+                "key": "male",
+                "count": "10"
+            },
+            {
+                "name": "peggio",
+                "key": "peggio",
+                "count": "10"
+            },
+            {
+                "name": "solo",
+                "key": "solo",
+                "count": 6
+            },
+            {
+                "name": "buon",
+                "key": "buon",
+                "count": "5"
+            }
+        ]
+    },
+    {
+        "count": "93",
+        "name": "euro",
+        "key": "euro",
+        "pages": [
+            {
+                "name": "islanda",
+                "key": "islanda",
+                "count": "13"
+            },
+            {
+                "name": "dice",
+                "key": "dice",
+                "count": "13"
+            },
+            {
+                "name": "parla",
+                "key": "parla",
+                "count": "12"
+            },
+            {
+                "name": "nessuno",
+                "key": "nessuno",
+                "count": "12"
+            },
+            {
+                "name": "cosa",
+                "key": "cosa",
+                "count": 8
+            },
+            {
+                "name": "mila",
+                "key": "mila",
+                "count": 7
+            },
+            {
+                "name": "euro",
+                "key": "euro",
+                "count": 6
+            },
+            {
+                "name": 1500,
+                "key": 1500,
+                "count": "5"
+            },
+            {
+                "name": "mese",
+                "key": "mese",
+                "count": 4
+            },
+            {
+                "name": "paga",
+                "key": "paga",
+                "count": "4"
+            }
+        ]
+    },
+    {
+        "count": "92",
+        "name": "voto",
+        "key": "voto",
+        "pages": [
+            {
+                "name": "utile",
+                "key": "utile",
+                "count": "13"
+            },
+            {
+                "name": "gradasso",
+                "key": "gradasso",
+                "count": "9"
+            },
+            {
+                "name": "conciona",
+                "key": "conciona",
+                "count": "9"
+            },
+            {
+                "name": "dovrebbe",
+                "key": "dovrebbe",
+                "count": "9"
+            },
+            {
+                "name": "umilta",
+                "key": "umilta",
+                "count": "7"
+            },
+            {
+                "name": "attrezzarsi",
+                "key": "attrezzarsi",
+                "count": "7"
+            },
+            {
+                "name": "vedremo",
+                "key": "vedremo",
+                "count": 7
+            },
+            {
+                "name": "inumile",
+                "key": "inumile",
+                "count": "7"
+            },
+            {
+                "name": "scissioni",
+                "key": "scissioni",
+                "count": "6"
+            },
+            {
+                "name": "segreto",
+                "key": "segreto",
+                "count": "6"
+            }
+        ]
+    },
+    {
+        "count": "84",
+        "name": "regione",
+        "key": "regione",
+        "pages": [
+            {
+                "name": "cifre",
+                "key": "cifre",
+                "count": 27
+            },
+            {
+                "name": "roma",
+                "key": "roma",
+                "count": 27
+            },
+            {
+                "name": "porti",
+                "key": "porti",
+                "count": 16
+            },
+            {
+                "name": "lazio",
+                "key": "lazio",
+                "count": "12"
+            },
+            {
+                "name": "tutta",
+                "key": "tutta",
+                "count": "12"
+            },
+            {
+                "name": "marino",
+                "key": "marino",
+                "count": 12
+            },
+            {
+                "name": "deve",
+                "key": "deve",
+                "count": "11"
+            },
+            {
+                "name": "stare",
+                "key": "stare",
+                "count": "11"
+            },
+            {
+                "name": "d1oqvduhxa",
+                "key": "d1oqvduhxa",
+                "count": "8"
+            },
+            {
+                "name": "commissariati",
+                "key": "commissariati",
+                "count": "8"
+            }
+        ]
+    },
+    {
+        "count": "74",
+        "name": "elezioni",
+        "key": "elezioni",
+        "pages": [
+            {
+                "name": "passando",
+                "key": "passando",
+                "count": 22
+            },
+            {
+                "name": "inciuci",
+                "key": "inciuci",
+                "count": 19
+            },
+            {
+                "name": "palazzo",
+                "key": "palazzo",
+                "count": "16"
+            },
+            {
+                "name": "solo",
+                "key": "solo",
+                "count": "16"
+            },
+            {
+                "name": "europee",
+                "key": "europee",
+                "count": 11
+            },
+            {
+                "name": "prima",
+                "key": "prima",
+                "count": 6
+            },
+            {
+                "name": "campagna",
+                "key": "campagna",
+                "count": "5"
+            },
+            {
+                "name": "andare",
+                "key": "andare",
+                "count": 4
+            },
+            {
+                "name": "vedremo",
+                "key": "vedremo",
+                "count": "3"
+            },
+            {
+                "name": "berlusconi",
+                "key": "berlusconi",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "count": "71",
+        "name": "soldi",
+        "key": "soldi",
+        "pages": [
+            {
+                "name": "report",
+                "key": "report",
+                "count": "12"
+            },
+            {
+                "name": "giornaleditalia",
+                "key": "giornaleditalia",
+                "count": "12"
+            },
+            {
+                "name": "sputtanarmi",
+                "key": "sputtanarmi",
+                "count": "12"
+            },
+            {
+                "name": "querela",
+                "key": "querela",
+                "count": "12"
+            },
+            {
+                "name": "roma",
+                "key": "roma",
+                "count": 11
+            },
+            {
+                "name": "finiti",
+                "key": "finiti",
+                "count": "8"
+            },
+            {
+                "name": "municipi",
+                "key": "municipi",
+                "count": "8"
+            },
+            {
+                "name": "stop",
+                "key": "stop",
+                "count": "8"
+            },
+            {
+                "name": "versati",
+                "key": "versati",
+                "count": "7"
+            },
+            {
+                "name": "giustamente",
+                "key": "giustamente",
+                "count": "7"
+            }
+        ]
+    },
+    {
+        "count": "71",
+        "name": "italiano",
+        "key": "italiano",
+        "pages": [
+            {
+                "name": "popolo",
+                "key": "popolo",
+                "count": "31"
+            },
+            {
+                "name": "conta",
+                "key": "conta",
+                "count": "19"
+            },
+            {
+                "name": "niente",
+                "key": "niente",
+                "count": "19"
+            },
+            {
+                "name": "forte",
+                "key": "forte",
+                "count": "12"
+            },
+            {
+                "name": "pupowh0731",
+                "key": "pupowh0731",
+                "count": "12"
+            },
+            {
+                "name": "governo",
+                "key": "governo",
+                "count": "12"
+            },
+            {
+                "name": "iostoconimaro",
+                "key": "iostoconimaro",
+                "count": "12"
+            },
+            {
+                "name": "parlare",
+                "key": "parlare",
+                "count": "3"
+            },
+            {
+                "name": "capire",
+                "key": "capire",
+                "count": "3"
+            },
+            {
+                "name": "volonta",
+                "key": "volonta",
+                "count": "3"
+            }
+        ]
+    },
+    {
+        "count": "63",
+        "name": "economia",
+        "key": "economia",
+        "pages": [
+            {
+                "name": "ministro",
+                "key": "ministro",
+                "count": "58"
+            },
+            {
+                "name": "renzi",
+                "key": "renzi",
+                "count": "43"
+            },
+            {
+                "name": "padoan",
+                "key": "padoan",
+                "count": "43"
+            },
+            {
+                "name": "conoscono",
+                "key": "conoscono",
+                "count": "43"
+            },
+            {
+                "name": "sceglie",
+                "key": "sceglie",
+                "count": 12
+            },
+            {
+                "name": "quando",
+                "key": "quando",
+                "count": "11"
+            },
+            {
+                "name": "italia",
+                "key": "italia",
+                "count": "11"
+            },
+            {
+                "name": "sale",
+                "key": "sale",
+                "count": "2"
+            },
+            {
+                "name": "consumi",
+                "key": "consumi",
+                "count": "2"
+            },
+            {
+                "name": "lavoro",
+                "key": "lavoro",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "count": "60",
+        "name": "democrazia",
+        "key": "democrazia",
+        "pages": [
+            {
+                "name": "eletto",
+                "key": "eletto",
+                "count": 20
+            },
+            {
+                "name": "farlo",
+                "key": "farlo",
+                "count": "19"
+            },
+            {
+                "name": "optional",
+                "key": "optional",
+                "count": "19"
+            },
+            {
+                "name": "antonomasia",
+                "key": "antonomasia",
+                "count": "4"
+            },
+            {
+                "name": "erede",
+                "key": "erede",
+                "count": "4"
+            },
+            {
+                "name": "cristian",
+                "key": "cristian",
+                "count": "3"
+            },
+            {
+                "name": "diretta",
+                "key": "diretta",
+                "count": "3"
+            },
+            {
+                "name": "terzo",
+                "key": "terzo",
+                "count": "3"
+            },
+            {
+                "name": "italia",
+                "key": "italia",
+                "count": 3
+            },
+            {
+                "name": "arfiomarchini1",
+                "key": "arfiomarchini1",
+                "count": "3"
+            }
+        ]
+    },
+    {
+        "count": "55",
+        "name": "europee",
+        "key": "europee",
+        "pages": [
+            {
+                "name": "elezioni",
+                "key": "elezioni",
+                "count": 11
+            },
+            {
+                "name": "dopo",
+                "key": "dopo",
+                "count": 6
+            },
+            {
+                "name": "giornale",
+                "key": "giornale",
+                "count": "5"
+            },
+            {
+                "name": "campagna",
+                "key": "campagna",
+                "count": "5"
+            },
+            {
+                "name": "presentare",
+                "key": "presentare",
+                "count": "5"
+            },
+            {
+                "name": "porta",
+                "key": "porta",
+                "count": "4"
+            },
+            {
+                "name": "politiche",
+                "key": "politiche",
+                "count": "4"
+            },
+            {
+                "name": "ossa",
+                "key": "ossa",
+                "count": "4"
+            },
+            {
+                "name": "chiude",
+                "key": "chiude",
+                "count": "4"
+            },
+            {
+                "name": "egoisti",
+                "key": "egoisti",
+                "count": "4"
+            }
+        ]
+    },
+    {
+        "count": "52",
+        "name": "italiana",
+        "key": "italiana",
+        "pages": [
+            {
+                "name": "destra",
+                "key": "destra",
+                "count": "32"
+            },
+            {
+                "name": "vera",
+                "key": "vera",
+                "count": "7"
+            },
+            {
+                "name": "negarlo",
+                "key": "negarlo",
+                "count": "5"
+            },
+            {
+                "name": "nessuno",
+                "key": "nessuno",
+                "count": "5"
+            },
+            {
+                "name": "vitale",
+                "key": "vitale",
+                "count": "5"
+            },
+            {
+                "name": "sociale",
+                "key": "sociale",
+                "count": "4"
+            },
+            {
+                "name": "cittadinanza",
+                "key": "cittadinanza",
+                "count": "4"
+            },
+            {
+                "name": "leale",
+                "key": "leale",
+                "count": "4"
+            },
+            {
+                "name": "ricostruiamo",
+                "key": "ricostruiamo",
+                "count": "4"
+            },
+            {
+                "name": "essere",
+                "key": "essere",
+                "count": "3"
+            }
+        ]
+    },
+    {
+        "count": "49",
+        "name": "tasse",
+        "key": "tasse",
+        "pages": [
+            {
+                "name": "ministro",
+                "key": "ministro",
+                "count": 18
+            },
+            {
+                "name": "lavoro",
+                "key": "lavoro",
+                "count": "10"
+            },
+            {
+                "name": "padoan",
+                "key": "padoan",
+                "count": "10"
+            },
+            {
+                "name": "comunista",
+                "key": "comunista",
+                "count": "10"
+            },
+            {
+                "name": "renziano",
+                "key": "renziano",
+                "count": "8"
+            },
+            {
+                "name": "buche",
+                "key": "buche",
+                "count": "8"
+            },
+            {
+                "name": "alte",
+                "key": "alte",
+                "count": "8"
+            },
+            {
+                "name": "europa",
+                "key": "europa",
+                "count": "8"
+            },
+            {
+                "name": "italia",
+                "key": "italia",
+                "count": "8"
+            },
+            {
+                "name": "bene",
+                "key": "bene",
+                "count": "8"
+            }
+        ]
+    },
+    {
+        "count": "46",
+        "name": "europa",
+        "key": "europa",
+        "pages": [
+            {
+                "name": "renziano",
+                "key": "renziano",
+                "count": "8"
+            },
+            {
+                "name": "bene",
+                "key": "bene",
+                "count": "8"
+            },
+            {
+                "name": "bastonarci",
+                "key": "bastonarci",
+                "count": "8"
+            },
+            {
+                "name": "tasse",
+                "key": "tasse",
+                "count": "8"
+            },
+            {
+                "name": "premier",
+                "key": "premier",
+                "count": "8"
+            },
+            {
+                "name": "inchina",
+                "key": "inchina",
+                "count": "8"
+            },
+            {
+                "name": "agenparl",
+                "key": "agenparl",
+                "count": "8"
+            },
+            {
+                "name": "bqqsljlpee",
+                "key": "bqqsljlpee",
+                "count": "7"
+            },
+            {
+                "name": "italia",
+                "key": "italia",
+                "count": 4
+            },
+            {
+                "name": "merkel",
+                "key": "merkel",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "count": "44",
+        "name": "crisi",
+        "key": "crisi",
+        "pages": [
+            {
+                "name": "giornaleditalia",
+                "key": "giornaleditalia",
+                "count": "13"
+            },
+            {
+                "name": "uccide",
+                "key": "uccide",
+                "count": "8"
+            },
+            {
+                "name": "ancora",
+                "key": "ancora",
+                "count": "8"
+            },
+            {
+                "name": "riabilitazione",
+                "key": "riabilitazione",
+                "count": "7"
+            },
+            {
+                "name": "affanno",
+                "key": "affanno",
+                "count": "7"
+            },
+            {
+                "name": "davanti",
+                "key": "davanti",
+                "count": "6"
+            },
+            {
+                "name": "soli",
+                "key": "soli",
+                "count": "6"
+            },
+            {
+                "name": "kxpuoqvfxz",
+                "key": "kxpuoqvfxz",
+                "count": "5"
+            },
+            {
+                "name": "allarme",
+                "key": "allarme",
+                "count": "4"
+            },
+            {
+                "name": "rischiamo",
+                "key": "rischiamo",
+                "count": "4"
+            }
+        ]
+    },
+    {
+        "count": "39",
+        "name": "sanita",
+        "key": "sanita",
+        "pages": [
+            {
+                "name": "riabilitazione",
+                "key": "riabilitazione",
+                "count": "7"
+            },
+            {
+                "name": "avverte",
+                "key": "avverte",
+                "count": "7"
+            },
+            {
+                "name": "alfano",
+                "key": "alfano",
+                "count": "7"
+            },
+            {
+                "name": "affanno",
+                "key": "affanno",
+                "count": "7"
+            },
+            {
+                "name": "quel",
+                "key": "quel",
+                "count": "5"
+            },
+            {
+                "name": "calabrese",
+                "key": "calabrese",
+                "count": "5"
+            },
+            {
+                "name": "indagine",
+                "key": "indagine",
+                "count": "5"
+            },
+            {
+                "name": "virusrai2",
+                "key": "virusrai2",
+                "count": "4"
+            },
+            {
+                "name": "efficiente",
+                "key": "efficiente",
+                "count": "3"
+            },
+            {
+                "name": "funziona",
+                "key": "funziona",
+                "count": "3"
+            }
+        ]
+    },
+    {
+        "count": "27",
+        "name": "onore",
+        "key": "onore",
+        "pages": [
+            {
+                "name": "idee",
+                "key": "idee",
+                "count": "4"
+            },
+            {
+                "name": "bandiera",
+                "key": "bandiera",
+                "count": "4"
+            },
+            {
+                "name": "nonostante",
+                "key": "nonostante",
+                "count": "4"
+            },
+            {
+                "name": "portiamola",
+                "key": "portiamola",
+                "count": "4"
+            },
+            {
+                "name": "pasquino83",
+                "key": "pasquino83",
+                "count": "3"
+            },
+            {
+                "name": "cosa",
+                "key": "cosa",
+                "count": 2
+            },
+            {
+                "name": "vito_cipolla",
+                "key": "vito_cipolla",
+                "count": "2"
+            },
+            {
+                "name": "patria",
+                "key": "patria",
+                "count": "2"
+            },
+            {
+                "name": "pensi",
+                "key": "pensi",
+                "count": "2"
+            },
+            {
+                "name": "scrivi",
+                "key": "scrivi",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "count": "22",
+        "name": "regioni",
+        "key": "regioni",
+        "pages": [
+            {
+                "name": "parlamento",
+                "key": "parlamento",
+                "count": 8
+            },
+            {
+                "name": "provincie",
+                "key": "provincie",
+                "count": "6"
+            },
+            {
+                "name": "senato",
+                "key": "senato",
+                "count": 5
+            },
+            {
+                "name": "portato",
+                "key": "portato",
+                "count": "4"
+            },
+            {
+                "name": "abolire",
+                "key": "abolire",
+                "count": "4"
+            },
+            {
+                "name": "statuto",
+                "key": "statuto",
+                "count": "4"
+            },
+            {
+                "name": "comuni",
+                "key": "comuni",
+                "count": 4
+            },
+            {
+                "name": "marcovannucci",
+                "key": "marcovannucci",
+                "count": "4"
+            },
+            {
+                "name": "avere",
+                "key": "avere",
+                "count": "4"
+            },
+            {
+                "name": "nani",
+                "key": "nani",
+                "count": "4"
+            }
+        ]
+    },
+    {
+        "count": "16",
+        "name": "nord",
+        "key": "nord",
+        "pages": [
+            {
+                "name": "roma",
+                "key": "roma",
+                "count": "9"
+            },
+            {
+                "name": "contaminata",
+                "key": "contaminata",
+                "count": "8"
+            },
+            {
+                "name": "comune",
+                "key": "comune",
+                "count": "7"
+            },
+            {
+                "name": "polemica",
+                "key": "polemica",
+                "count": "7"
+            },
+            {
+                "name": "america",
+                "key": "america",
+                "count": "2"
+            },
+            {
+                "name": "casa",
+                "key": "casa",
+                "count": "2"
+            },
+            {
+                "name": "partito",
+                "key": "partito",
+                "count": "2"
+            },
+            {
+                "name": "venire",
+                "key": "venire",
+                "count": "2"
+            },
+            {
+                "name": "oceania",
+                "key": "oceania",
+                "count": "2"
+            },
+            {
+                "name": "coreano",
+                "key": "coreano",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "16",
+        "name": "disoccupazione",
+        "key": "disoccupazione",
+        "pages": [
+            {
+                "name": "problema",
+                "key": "problema",
+                "count": "6"
+            },
+            {
+                "name": "sottosegretari",
+                "key": "sottosegretari",
+                "count": "5"
+            },
+            {
+                "name": "risolvere",
+                "key": "risolvere",
+                "count": "5"
+            },
+            {
+                "name": "valanga",
+                "key": "valanga",
+                "count": "5"
+            },
+            {
+                "name": "magna",
+                "key": "magna",
+                "count": "3"
+            },
+            {
+                "name": "jobs",
+                "key": "jobs",
+                "count": "3"
+            },
+            {
+                "name": "renzi",
+                "key": "renzi",
+                "count": "3"
+            },
+            {
+                "name": "contrastare",
+                "key": "contrastare",
+                "count": "3"
+            },
+            {
+                "name": "iniziative",
+                "key": "iniziative",
+                "count": "3"
+            },
+            {
+                "name": "disoccupato",
+                "key": "disoccupato",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "count": "15",
+        "name": "stampa",
+        "key": "stampa",
+        "pages": [
+            {
+                "name": "liberta",
+                "key": "liberta",
+                "count": "6"
+            },
+            {
+                "name": "limitare",
+                "key": "limitare",
+                "count": "4"
+            },
+            {
+                "name": "contraddittorio",
+                "key": "contraddittorio",
+                "count": "4"
+            },
+            {
+                "name": "personam",
+                "key": "personam",
+                "count": "4"
+            },
+            {
+                "name": "giudizio",
+                "key": "giudizio",
+                "count": "2"
+            },
+            {
+                "name": "vendolo",
+                "key": "vendolo",
+                "count": "2"
+            },
+            {
+                "name": "parlo",
+                "key": "parlo",
+                "count": "2"
+            },
+            {
+                "name": "copie",
+                "key": "copie",
+                "count": "2"
+            },
+            {
+                "name": "affiliati",
+                "key": "affiliati",
+                "count": "2"
+            },
+            {
+                "name": "vittima",
+                "key": "vittima",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "count": "12",
+        "name": "nazione",
+        "key": "nazione",
+        "pages": [
+            {
+                "name": "insieme",
+                "key": "insieme",
+                "count": "2"
+            },
+            {
+                "name": "dignita",
+                "key": "dignita",
+                "count": "2"
+            },
+            {
+                "name": "ballo",
+                "key": "ballo",
+                "count": "2"
+            },
+            {
+                "name": "italia",
+                "key": "italia",
+                "count": 2
+            },
+            {
+                "name": "intera",
+                "key": "intera",
+                "count": "2"
+            },
+            {
+                "name": "legalita",
+                "key": "legalita",
+                "count": "1"
+            },
+            {
+                "name": "2pesi",
+                "key": "2pesi",
+                "count": "1"
+            },
+            {
+                "name": "presentate",
+                "key": "presentate",
+                "count": "1"
+            },
+            {
+                "name": "lobbies",
+                "key": "lobbies",
+                "count": "1"
+            },
+            {
+                "name": "lunghi",
+                "key": "lunghi",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "10",
+        "name": "marine",
+        "key": "marine",
+        "pages": [
+            {
+                "name": "saluti",
+                "key": "saluti",
+                "count": "10"
+            },
+            {
+                "name": "porta",
+                "key": "porta",
+                "count": "10"
+            },
+            {
+                "name": "ottimo",
+                "key": "ottimo",
+                "count": "10"
+            },
+            {
+                "name": "alemannotw",
+                "key": "alemannotw",
+                "count": "10"
+            }
+        ]
+    },
+    {
+        "count": "9",
+        "name": "tassa",
+        "key": "tassa",
+        "pages": [
+            {
+                "name": "inceneritori",
+                "key": "inceneritori",
+                "count": "2"
+            },
+            {
+                "name": "discariche",
+                "key": "discariche",
+                "count": "2"
+            },
+            {
+                "name": "rifiuti",
+                "key": "rifiuti",
+                "count": "2"
+            },
+            {
+                "name": "redditi",
+                "key": "redditi",
+                "count": "1"
+            },
+            {
+                "name": "resistono",
+                "key": "resistono",
+                "count": "1"
+            },
+            {
+                "name": "solidarieta",
+                "key": "solidarieta",
+                "count": "1"
+            },
+            {
+                "name": "casa",
+                "key": "casa",
+                "count": "1"
+            },
+            {
+                "name": "significa",
+                "key": "significa",
+                "count": "1"
+            },
+            {
+                "name": "vuole",
+                "key": "vuole",
+                "count": "1"
+            },
+            {
+                "name": "cosa",
+                "key": "cosa",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "7",
+        "name": "renzie",
+        "key": "renzie",
+        "pages": [
+            {
+                "name": "fonzie",
+                "key": "fonzie",
+                "count": "1"
+            },
+            {
+                "name": "palle",
+                "key": "palle",
+                "count": "1"
+            },
+            {
+                "name": "pensava",
+                "key": "pensava",
+                "count": "1"
+            },
+            {
+                "name": "libera",
+                "key": "libera",
+                "count": "1"
+            },
+            {
+                "name": "fare",
+                "key": "fare",
+                "count": "1"
+            },
+            {
+                "name": "alefdiakonos",
+                "key": "alefdiakonos",
+                "count": "1"
+            },
+            {
+                "name": "aprire",
+                "key": "aprire",
+                "count": "1"
+            },
+            {
+                "name": "sqiwt4nrba",
+                "key": "sqiwt4nrba",
+                "count": "1"
+            },
+            {
+                "name": "evviva",
+                "key": "evviva",
+                "count": "1"
+            },
+            {
+                "name": "idee",
+                "key": "idee",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "7",
+        "name": "italiane",
+        "key": "italiane",
+        "pages": [
+            {
+                "name": "700mila",
+                "key": "700mila",
+                "count": "3"
+            },
+            {
+                "name": "percorrevano",
+                "key": "percorrevano",
+                "count": "3"
+            },
+            {
+                "name": "simonebaldelli",
+                "key": "simonebaldelli",
+                "count": "3"
+            },
+            {
+                "name": "auto",
+                "key": "auto",
+                "count": "3"
+            },
+            {
+                "name": "facile",
+                "key": "facile",
+                "count": "2"
+            },
+            {
+                "name": "pantheon",
+                "key": "pantheon",
+                "count": "2"
+            },
+            {
+                "name": "scommettere",
+                "key": "scommettere",
+                "count": "2"
+            },
+            {
+                "name": "attrici",
+                "key": "attrici",
+                "count": "2"
+            },
+            {
+                "name": "deutch",
+                "key": "deutch",
+                "count": "1"
+            },
+            {
+                "name": "morte",
+                "key": "morte",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "6",
+        "name": "corruzione",
+        "key": "corruzione",
+        "pages": [
+            {
+                "name": "lettera",
+                "key": "lettera",
+                "count": "2"
+            },
+            {
+                "name": "solo",
+                "key": "solo",
+                "count": "2"
+            },
+            {
+                "name": "renzi",
+                "key": "renzi",
+                "count": "2"
+            },
+            {
+                "name": "soluzioni",
+                "key": "soluzioni",
+                "count": "2"
+            },
+            {
+                "name": "merita",
+                "key": "merita",
+                "count": "2"
+            },
+            {
+                "name": "assicuro",
+                "key": "assicuro",
+                "count": "1"
+            },
+            {
+                "name": "anni",
+                "key": "anni",
+                "count": "1"
+            },
+            {
+                "name": "lrq6sq19uu",
+                "key": "lrq6sq19uu",
+                "count": "1"
+            },
+            {
+                "name": "italia",
+                "key": "italia",
+                "count": "1"
+            },
+            {
+                "name": "occupo",
+                "key": "occupo",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "5",
+        "name": "referendum",
+        "key": "referendum",
+        "pages": [
+            {
+                "name": "chiedere",
+                "key": "chiedere",
+                "count": "2"
+            },
+            {
+                "name": "lanciare",
+                "key": "lanciare",
+                "count": "2"
+            },
+            {
+                "name": "fiscalcompact",
+                "key": "fiscalcompact",
+                "count": "2"
+            },
+            {
+                "name": "contenuti",
+                "key": "contenuti",
+                "count": "1"
+            },
+            {
+                "name": "idee",
+                "key": "idee",
+                "count": "1"
+            },
+            {
+                "name": "rispettato",
+                "key": "rispettato",
+                "count": "1"
+            },
+            {
+                "name": "prodotto",
+                "key": "prodotto",
+                "count": "1"
+            },
+            {
+                "name": "condividiamo",
+                "key": "condividiamo",
+                "count": "1"
+            },
+            {
+                "name": "probabilmente",
+                "key": "probabilmente",
+                "count": "1"
+            },
+            {
+                "name": "stato",
+                "key": "stato",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "5",
+        "name": "mercato",
+        "key": "mercato",
+        "pages": [
+            {
+                "name": "libero",
+                "key": "libero",
+                "count": "4"
+            },
+            {
+                "name": "jcatalano73",
+                "key": "jcatalano73",
+                "count": "2"
+            },
+            {
+                "name": "destra",
+                "key": "destra",
+                "count": "2"
+            },
+            {
+                "name": "gennaio",
+                "key": "gennaio",
+                "count": "1"
+            },
+            {
+                "name": "player",
+                "key": "player",
+                "count": "1"
+            },
+            {
+                "name": "privatizzazioni",
+                "key": "privatizzazioni",
+                "count": "1"
+            },
+            {
+                "name": "liberalizzazioni",
+                "key": "liberalizzazioni",
+                "count": "1"
+            },
+            {
+                "name": "acquisto",
+                "key": "acquisto",
+                "count": "1"
+            },
+            {
+                "name": "ultimo",
+                "key": "ultimo",
+                "count": "1"
+            },
+            {
+                "name": "meritocrazia",
+                "key": "meritocrazia",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "4",
+        "name": "marketing",
+        "key": "marketing",
+        "pages": [
+            {
+                "name": "politica",
+                "key": "politica",
+                "count": "2"
+            },
+            {
+                "name": "solo",
+                "key": "solo",
+                "count": "2"
+            },
+            {
+                "name": "contrappone",
+                "key": "contrappone",
+                "count": "1"
+            },
+            {
+                "name": "renzi",
+                "key": "renzi",
+                "count": "1"
+            },
+            {
+                "name": "precisi",
+                "key": "precisi",
+                "count": "1"
+            },
+            {
+                "name": "scopi",
+                "key": "scopi",
+                "count": "1"
+            },
+            {
+                "name": "societa",
+                "key": "societa",
+                "count": "1"
+            },
+            {
+                "name": "tavolino",
+                "key": "tavolino",
+                "count": "1"
+            },
+            {
+                "name": "dico",
+                "key": "dico",
+                "count": "1"
+            },
+            {
+                "name": "mostro",
+                "key": "mostro",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "4",
+        "name": "jobs",
+        "key": "jobs",
+        "pages": [
+            {
+                "name": "campacavalloestaisereno",
+                "key": "campacavalloestaisereno",
+                "count": "3"
+            },
+            {
+                "name": "renzi",
+                "key": "renzi",
+                "count": "3"
+            },
+            {
+                "name": "magna",
+                "key": "magna",
+                "count": "3"
+            },
+            {
+                "name": "disoccupazione",
+                "key": "disoccupazione",
+                "count": "3"
+            },
+            {
+                "name": "accorgere",
+                "key": "accorgere",
+                "count": "1"
+            },
+            {
+                "name": "fare",
+                "key": "fare",
+                "count": "1"
+            },
+            {
+                "name": "chiamano",
+                "key": "chiamano",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "4",
+        "name": "bruxelles",
+        "key": "bruxelles",
+        "pages": [
+            {
+                "name": "spetta",
+                "key": "spetta",
+                "count": "1"
+            },
+            {
+                "name": "volete",
+                "key": "volete",
+                "count": "1"
+            },
+            {
+                "name": "denominatore",
+                "key": "denominatore",
+                "count": "1"
+            },
+            {
+                "name": "grillini",
+                "key": "grillini",
+                "count": "1"
+            },
+            {
+                "name": "comune",
+                "key": "comune",
+                "count": "1"
+            },
+            {
+                "name": "essere",
+                "key": "essere",
+                "count": "1"
+            },
+            {
+                "name": "vorrebbero",
+                "key": "vorrebbero",
+                "count": "1"
+            },
+            {
+                "name": "burocrati",
+                "key": "burocrati",
+                "count": "1"
+            },
+            {
+                "name": "corna",
+                "key": "corna",
+                "count": "1"
+            },
+            {
+                "name": "economia",
+                "key": "economia",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "3",
+        "name": "immigrazione",
+        "key": "immigrazione",
+        "pages": [
+            {
+                "name": "mente",
+                "key": "mente",
+                "count": "2"
+            },
+            {
+                "name": "aprirci",
+                "key": "aprirci",
+                "count": "2"
+            },
+            {
+                "name": "parlare",
+                "key": "parlare",
+                "count": "2"
+            },
+            {
+                "name": "sentiamo",
+                "key": "sentiamo",
+                "count": "2"
+            },
+            {
+                "name": "decoro",
+                "key": "decoro",
+                "count": "1"
+            },
+            {
+                "name": "controllo",
+                "key": "controllo",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "3",
+        "name": "frontiere",
+        "key": "frontiere",
+        "pages": [
+            {
+                "name": "senza",
+                "key": "senza",
+                "count": "2"
+            },
+            {
+                "name": "limiti",
+                "key": "limiti",
+                "count": "2"
+            },
+            {
+                "name": "luigi_pelerin",
+                "key": "luigi_pelerin",
+                "count": "1"
+            },
+            {
+                "name": "nuove",
+                "key": "nuove",
+                "count": "1"
+            },
+            {
+                "name": "ignavia",
+                "key": "ignavia",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "3",
+        "name": "elite",
+        "key": "elite",
+        "pages": [
+            {
+                "name": "calcio",
+                "key": "calcio",
+                "count": "1"
+            },
+            {
+                "name": "partito",
+                "key": "partito",
+                "count": "1"
+            },
+            {
+                "name": "stampare",
+                "key": "stampare",
+                "count": "1"
+            },
+            {
+                "name": "liberalalazio",
+                "key": "liberalalazio",
+                "count": "1"
+            },
+            {
+                "name": "blindata",
+                "key": "blindata",
+                "count": "1"
+            },
+            {
+                "name": "torniamo",
+                "key": "torniamo",
+                "count": "1"
+            },
+            {
+                "name": "cioe",
+                "key": "cioe",
+                "count": "1"
+            },
+            {
+                "name": "compete",
+                "key": "compete",
+                "count": "1"
+            },
+            {
+                "name": "affitti",
+                "key": "affitti",
+                "count": "1"
+            },
+            {
+                "name": "vizio",
+                "key": "vizio",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "2",
+        "name": "elez",
+        "key": "elez",
+        "pages": [
+            {
+                "name": "conteneva",
+                "key": "conteneva",
+                "count": "2"
+            },
+            {
+                "name": "politiche",
+                "key": "politiche",
+                "count": "2"
+            },
+            {
+                "name": "programma",
+                "key": "programma",
+                "count": "2"
+            },
+            {
+                "name": "destra",
+                "key": "destra",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "count": "2",
+        "name": "campagne",
+        "key": "campagne",
+        "pages": [
+            {
+                "name": "elettorali",
+                "key": "elettorali",
+                "count": "2"
+            },
+            {
+                "name": "termovalorizzazioni",
+                "key": "termovalorizzazioni",
+                "count": "1"
+            },
+            {
+                "name": "grillini",
+                "key": "grillini",
+                "count": "1"
+            },
+            {
+                "name": "berlusconi",
+                "key": "berlusconi",
+                "count": "1"
+            },
+            {
+                "name": "fatto",
+                "key": "fatto",
+                "count": "1"
+            },
+            {
+                "name": "diffamo",
+                "key": "diffamo",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "press",
+        "key": "press",
+        "pages": [
+            {
+                "name": "ricatto",
+                "key": "ricatto",
+                "count": "1"
+            },
+            {
+                "name": "soggetta",
+                "key": "soggetta",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "national",
+        "key": "national",
+        "pages": [
+            {
+                "name": "ogni",
+                "key": "ogni",
+                "count": "1"
+            },
+            {
+                "name": "italiano",
+                "key": "italiano",
+                "count": "1"
+            },
+            {
+                "name": "front",
+                "key": "front",
+                "count": "1"
+            },
+            {
+                "name": "sogno",
+                "key": "sogno",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "extracomunitari",
+        "key": "extracomunitari",
+        "pages": [
+            {
+                "name": "votare",
+                "key": "votare",
+                "count": "1"
+            },
+            {
+                "name": "chiesto",
+                "key": "chiesto",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "economi",
+        "key": "economi",
+        "pages": [
+            {
+                "name": "culturale",
+                "key": "culturale",
+                "count": "1"
+            },
+            {
+                "name": "storia",
+                "key": "storia",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "denaro",
+        "key": "denaro",
+        "pages": [
+            {
+                "name": "altri",
+                "key": "altri",
+                "count": "1"
+            },
+            {
+                "name": "gentile",
+                "key": "gentile",
+                "count": "1"
+            },
+            {
+                "name": "pozzo",
+                "key": "pozzo",
+                "count": "1"
+            },
+            {
+                "name": "calabrese",
+                "key": "calabrese",
+                "count": "1"
+            }
+        ]
+    }
+]

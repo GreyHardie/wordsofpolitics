@@ -1,0 +1,3027 @@
+[
+    {
+        "count": 1000.0, 
+        "real_freq": 3429.0, 
+        "name": "francais", 
+        "key": "fran", 
+        "pages": [
+            {
+                "FRANCE": 1000.0
+            }
+        ]
+    }, 
+    {
+        "count": 879.5567220764071, 
+        "real_freq": 3016.0, 
+        "name": "marine", 
+        "key": "marine", 
+        "pages": [
+            {
+                "FRANCE": 879.5567220764071
+            }
+        ]
+    }, 
+    {
+        "count": 331.00029163021287, 
+        "real_freq": 1135.0, 
+        "name": "vote", 
+        "key": "vot", 
+        "pages": [
+            {
+                "FRANCE": 331.00029163021287
+            }
+        ]
+    }, 
+    {
+        "count": 291.0469524642753, 
+        "real_freq": 998.0, 
+        "name": "europe", 
+        "key": "eu", 
+        "pages": [
+            {
+                "FRANCE": 291.0469524642753
+            }
+        ]
+    }, 
+    {
+        "count": 245.55263925342666, 
+        "real_freq": 842.0, 
+        "name": "immigration", 
+        "key": "immigr", 
+        "pages": [
+            {
+                "FRANCE": 245.55263925342666
+            }
+        ]
+    }, 
+    {
+        "count": 226.8883056284631, 
+        "real_freq": 778.0, 
+        "name": "presse", 
+        "key": "press", 
+        "pages": [
+            {
+                "FRANCE": 226.8883056284631
+            }
+        ]
+    }, 
+    {
+        "count": 180.51910177894428, 
+        "real_freq": 619.0, 
+        "name": "gauche", 
+        "key": "gauche", 
+        "pages": [
+            {
+                "FRANCE": 180.51910177894428
+            }
+        ]
+    }, 
+    {
+        "count": 137.06620005832605, 
+        "real_freq": 470.0, 
+        "name": "islamistes", 
+        "key": "islam", 
+        "pages": [
+            {
+                "FRANCE": 137.06620005832605
+            }
+        ]
+    }, 
+    {
+        "count": 131.81685622630505, 
+        "real_freq": 452.0, 
+        "name": "campagne", 
+        "key": "campagne", 
+        "pages": [
+            {
+                "FRANCE": 131.81685622630505
+            }
+        ]
+    }, 
+    {
+        "count": 127.15077282006415, 
+        "real_freq": 436.0, 
+        "name": "referendum", 
+        "key": "referendum", 
+        "pages": [
+            {
+                "FRANCE": 127.15077282006415
+            }
+        ]
+    }, 
+    {
+        "count": 119.56838728492272, 
+        "real_freq": 410.0, 
+        "name": "national", 
+        "key": "nation", 
+        "pages": [
+            {
+                "FRANCE": 119.56838728492272
+            }
+        ]
+    }, 
+    {
+        "count": 109.06969962088073, 
+        "real_freq": 374.0, 
+        "name": "chomage", 
+        "key": "chom", 
+        "pages": [
+            {
+                "FRANCE": 109.06969962088073
+            }
+        ]
+    }, 
+    {
+        "count": 98.57101195683873, 
+        "real_freq": 338.0, 
+        "name": "democratie", 
+        "key": "democra", 
+        "pages": [
+            {
+                "FRANCE": 98.57101195683873
+            }
+        ]
+    }, 
+    {
+        "count": 65.61679790026247, 
+        "real_freq": 225.0, 
+        "name": "musulmans", 
+        "key": "musulm", 
+        "pages": [
+            {
+                "FRANCE": 65.61679790026247
+            }
+        ]
+    }, 
+    {
+        "count": 54.53484981044036, 
+        "real_freq": 187.0, 
+        "name": "etrangers", 
+        "key": "etranger", 
+        "pages": [
+            {
+                "FRANCE": 54.53484981044036
+            }
+        ]
+    }, 
+    {
+        "count": 53.076698745990086, 
+        "real_freq": 182.0, 
+        "name": "mosquees", 
+        "key": "mosque", 
+        "pages": [
+            {
+                "FRANCE": 53.076698745990086
+            }
+        ]
+    }, 
+    {
+        "count": 51.910177894429864, 
+        "real_freq": 178.0, 
+        "name": "travailler", 
+        "key": "travail", 
+        "pages": [
+            {
+                "FRANCE": 51.910177894429864
+            }
+        ]
+    }, 
+    {
+        "count": 22.16389617964421, 
+        "real_freq": 76.0, 
+        "name": "marche", 
+        "key": "marche", 
+        "pages": [
+            {
+                "FRANCE": 22.16389617964421
+            }
+        ]
+    }, 
+    {
+        "count": 20.122484689413824, 
+        "real_freq": 69.0, 
+        "name": "bruxelles", 
+        "key": "bruxelles", 
+        "pages": [
+            {
+                "FRANCE": 20.122484689413824
+            }
+        ]
+    }, 
+    {
+        "count": 19.247594050743654, 
+        "real_freq": 66.0, 
+        "name": "economie", 
+        "key": "econom", 
+        "pages": [
+            {
+                "FRANCE": 19.247594050743654
+            }
+        ]
+    }, 
+    {
+        "count": 12.831729367162438, 
+        "real_freq": 44.0, 
+        "name": "nord", 
+        "key": "nord", 
+        "pages": [
+            {
+                "FRANCE": 12.831729367162438
+            }
+        ]
+    }, 
+    {
+        "count": 12.248468941382326, 
+        "real_freq": 42.0, 
+        "name": "election", 
+        "key": "election", 
+        "pages": [
+            {
+                "FRANCE": 12.248468941382326
+            }
+        ]
+    }, 
+    {
+        "count": 9.915427238261884, 
+        "real_freq": 34.0, 
+        "name": "region", 
+        "key": "region", 
+        "pages": [
+            {
+                "FRANCE": 9.915427238261884
+            }
+        ]
+    }, 
+    {
+        "count": 7.874015748031496, 
+        "real_freq": 27.0, 
+        "name": "austerite", 
+        "key": "auster", 
+        "pages": [
+            {
+                "FRANCE": 7.874015748031496
+            }
+        ]
+    }, 
+    {
+        "count": 7.58238553514144, 
+        "real_freq": 26.0, 
+        "name": "ep2014", 
+        "key": "ep2014", 
+        "pages": [
+            {
+                "FRANCE": 7.58238553514144
+            }
+        ]
+    }, 
+    {
+        "count": 7.58238553514144, 
+        "real_freq": 26.0, 
+        "name": "homosexuel", 
+        "key": "homosexu", 
+        "pages": [
+            {
+                "FRANCE": 7.58238553514144
+            }
+        ]
+    }, 
+    {
+        "count": 5.540974044911053, 
+        "real_freq": 19.0, 
+        "name": "asile", 
+        "key": "asile", 
+        "pages": [
+            {
+                "FRANCE": 5.540974044911053
+            }
+        ]
+    }, 
+    {
+        "count": 5.2493438320209975, 
+        "real_freq": 18.0, 
+        "name": "taxe", 
+        "key": "tax", 
+        "pages": [
+            {
+                "FRANCE": 5.2493438320209975
+            }
+        ]
+    }, 
+    {
+        "count": 4.957713619130942, 
+        "real_freq": 17.0, 
+        "name": "frontieres", 
+        "key": "frontier", 
+        "pages": [
+            {
+                "FRANCE": 4.957713619130942
+            }
+        ]
+    }, 
+    {
+        "count": 3.79119276757072, 
+        "real_freq": 13.0, 
+        "name": "corrompu", 
+        "key": "corromp", 
+        "pages": [
+            {
+                "FRANCE": 3.79119276757072
+            }
+        ]
+    }, 
+    {
+        "count": 3.79119276757072, 
+        "real_freq": 13.0, 
+        "name": "care", 
+        "key": "care", 
+        "pages": [
+            {
+                "FRANCE": 3.79119276757072
+            }
+        ]
+    }, 
+    {
+        "count": 3.499562554680665, 
+        "real_freq": 12.0, 
+        "name": "banquier", 
+        "key": "banq", 
+        "pages": [
+            {
+                "FRANCE": 3.499562554680665
+            }
+        ]
+    }, 
+    {
+        "count": 3.499562554680665, 
+        "real_freq": 12.0, 
+        "name": "italiana", 
+        "key": "italia", 
+        "pages": [
+            {
+                "FRANCE": 3.499562554680665
+            }
+        ]
+    }, 
+    {
+        "count": 2.6246719160104988, 
+        "real_freq": 9.0, 
+        "name": "people", 
+        "key": "people", 
+        "pages": [
+            {
+                "FRANCE": 2.6246719160104988
+            }
+        ]
+    }, 
+    {
+        "count": 2.6246719160104988, 
+        "real_freq": 9.0, 
+        "name": "pers", 
+        "key": "pers", 
+        "pages": [
+            {
+                "FRANCE": 2.6246719160104988
+            }
+        ]
+    }, 
+    {
+        "count": 2.6246719160104988, 
+        "real_freq": 9.0, 
+        "name": "turquie", 
+        "key": "turqu", 
+        "pages": [
+            {
+                "FRANCE": 2.6246719160104988
+            }
+        ]
+    }, 
+    {
+        "count": 2.3330417031204433, 
+        "real_freq": 8.0, 
+        "name": "roms", 
+        "key": "rom", 
+        "pages": [
+            {
+                "FRANCE": 2.3330417031204433
+            }
+        ]
+    }, 
+    {
+        "count": 2.3330417031204433, 
+        "real_freq": 8.0, 
+        "name": "fraude", 
+        "key": "fraud", 
+        "pages": [
+            {
+                "FRANCE": 2.3330417031204433
+            }
+        ]
+    }, 
+    {
+        "count": 2.3330417031204433, 
+        "real_freq": 8.0, 
+        "name": "corruption", 
+        "key": "corrupt", 
+        "pages": [
+            {
+                "FRANCE": 2.3330417031204433
+            }
+        ]
+    }, 
+    {
+        "count": 1.7497812773403325, 
+        "real_freq": 6.0, 
+        "name": "solde", 
+        "key": "sold", 
+        "pages": [
+            {
+                "FRANCE": 1.7497812773403325
+            }
+        ]
+    }, 
+    {
+        "count": 1.458151064450277, 
+        "real_freq": 5.0, 
+        "name": "turc", 
+        "key": "turc", 
+        "pages": [
+            {
+                "FRANCE": 1.458151064450277
+            }
+        ]
+    }, 
+    {
+        "count": 1.1665208515602217, 
+        "real_freq": 4.0, 
+        "name": "elite", 
+        "key": "elite", 
+        "pages": [
+            {
+                "FRANCE": 1.1665208515602217
+            }
+        ]
+    }, 
+    {
+        "count": 1.1665208515602217, 
+        "real_freq": 4.0, 
+        "name": "merkel", 
+        "key": "merkel", 
+        "pages": [
+            {
+                "FRANCE": 1.1665208515602217
+            }
+        ]
+    }, 
+    {
+        "count": 1.1665208515602217, 
+        "real_freq": 4.0, 
+        "name": "marocains", 
+        "key": "marocain", 
+        "pages": [
+            {
+                "FRANCE": 1.1665208515602217
+            }
+        ]
+    }, 
+    {
+        "count": 0.8748906386701663, 
+        "real_freq": 3.0, 
+        "name": "destra", 
+        "key": "destra", 
+        "pages": [
+            {
+                "FRANCE": 0.8748906386701663
+            }
+        ]
+    }, 
+    {
+        "count": 0.5832604257801108, 
+        "real_freq": 2.0, 
+        "name": "federaliste", 
+        "key": "federalis", 
+        "pages": [
+            {
+                "FRANCE": 0.5832604257801108
+            }
+        ]
+    }, 
+    {
+        "count": 0.5832604257801108, 
+        "real_freq": 2.0, 
+        "name": "muslims", 
+        "key": "muslim", 
+        "pages": [
+            {
+                "FRANCE": 0.5832604257801108
+            }
+        ]
+    }, 
+    {
+        "count": 0.5832604257801108, 
+        "real_freq": 2.0, 
+        "name": "wilders", 
+        "key": "wilders", 
+        "pages": [
+            {
+                "FRANCE": 0.5832604257801108
+            }
+        ]
+    }, 
+    {
+        "count": 0.5832604257801108, 
+        "real_freq": 2.0, 
+        "name": "multiculturalisme", 
+        "key": "multiculturalism", 
+        "pages": [
+            {
+                "FRANCE": 0.5832604257801108
+            }
+        ]
+    }, 
+    {
+        "count": 0.5832604257801108, 
+        "real_freq": 2.0, 
+        "name": "tasse", 
+        "key": "tass", 
+        "pages": [
+            {
+                "FRANCE": 0.5832604257801108
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "elezioni", 
+        "key": "elez", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "britain", 
+        "key": "britain", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "market", 
+        "key": "market", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "nazione", 
+        "key": "nazione", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "gays", 
+        "key": "gay", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "government", 
+        "key": "government", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "farage", 
+        "key": "farage", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "disoccupazione", 
+        "key": "disoccupazione", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 0.2916302128900554, 
+        "real_freq": 1.0, 
+        "name": "renzi", 
+        "key": "renzi", 
+        "pages": [
+            {
+                "FRANCE": 0.2916302128900554
+            }
+        ]
+    }, 
+    {
+        "count": 1000.0, 
+        "real_freq": 4854.0, 
+        "name": "stemmen", 
+        "key": "stem", 
+        "pages": [
+            {
+                "NETHERLANDS": 1000.0
+            }
+        ]
+    }, 
+    {
+        "count": 811.083642356819, 
+        "real_freq": 3937.0, 
+        "name": "nederlands", 
+        "key": "nederland", 
+        "pages": [
+            {
+                "NETHERLANDS": 811.083642356819
+            }
+        ]
+    }, 
+    {
+        "count": 553.770086526576, 
+        "real_freq": 2688.0, 
+        "name": "geld", 
+        "key": "geld", 
+        "pages": [
+            {
+                "NETHERLANDS": 553.770086526576
+            }
+        ]
+    }, 
+    {
+        "count": 482.6946847960445, 
+        "real_freq": 2343.0, 
+        "name": "rutte", 
+        "key": "rutte", 
+        "pages": [
+            {
+                "NETHERLANDS": 482.6946847960445
+            }
+        ]
+    }, 
+    {
+        "count": 439.2253811289658, 
+        "real_freq": 2132.0, 
+        "name": "zorg", 
+        "key": "zorg", 
+        "pages": [
+            {
+                "NETHERLANDS": 439.2253811289658
+            }
+        ]
+    }, 
+    {
+        "count": 431.39678615574786, 
+        "real_freq": 2094.0, 
+        "name": "wilders", 
+        "key": "wilders", 
+        "pages": [
+            {
+                "NETHERLANDS": 431.39678615574786
+            }
+        ]
+    }, 
+    {
+        "count": 380.716934487021, 
+        "real_freq": 1848.0, 
+        "name": "werk", 
+        "key": "werk", 
+        "pages": [
+            {
+                "NETHERLANDS": 380.716934487021
+            }
+        ]
+    }, 
+    {
+        "count": 302.0189534404615, 
+        "real_freq": 1466.0, 
+        "name": "europa", 
+        "key": "eu", 
+        "pages": [
+            {
+                "NETHERLANDS": 302.0189534404615
+            }
+        ]
+    }, 
+    {
+        "count": 273.58879274824886, 
+        "real_freq": 1328.0, 
+        "name": "kabinet", 
+        "key": "kabinet", 
+        "pages": [
+            {
+                "NETHERLANDS": 273.58879274824886
+            }
+        ]
+    }, 
+    {
+        "count": 179.02760609806344, 
+        "real_freq": 869.0, 
+        "name": "verkiezingen", 
+        "key": "verkiezing", 
+        "pages": [
+            {
+                "NETHERLANDS": 179.02760609806344
+            }
+        ]
+    }, 
+    {
+        "count": 173.67119901112486, 
+        "real_freq": 843.0, 
+        "name": "economische", 
+        "key": "econom", 
+        "pages": [
+            {
+                "NETHERLANDS": 173.67119901112486
+            }
+        ]
+    }, 
+    {
+        "count": 173.25916769674495, 
+        "real_freq": 841.0, 
+        "name": "haag", 
+        "key": "haag", 
+        "pages": [
+            {
+                "NETHERLANDS": 173.25916769674495
+            }
+        ]
+    }, 
+    {
+        "count": 160.69221260815823, 
+        "real_freq": 780.0, 
+        "name": "marokkanen", 
+        "key": "marokka", 
+        "pages": [
+            {
+                "NETHERLANDS": 160.69221260815823
+            }
+        ]
+    }, 
+    {
+        "count": 153.0696332921302, 
+        "real_freq": 743.0, 
+        "name": "volk", 
+        "key": "volk", 
+        "pages": [
+            {
+                "NETHERLANDS": 153.0696332921302
+            }
+        ]
+    }, 
+    {
+        "count": 122.57931602801813, 
+        "real_freq": 595.0, 
+        "name": "banen", 
+        "key": "banen", 
+        "pages": [
+            {
+                "NETHERLANDS": 122.57931602801813
+            }
+        ]
+    }, 
+    {
+        "count": 118.66501854140915, 
+        "real_freq": 576.0, 
+        "name": "campagne", 
+        "key": "campagne", 
+        "pages": [
+            {
+                "NETHERLANDS": 118.66501854140915
+            }
+        ]
+    }, 
+    {
+        "count": 99.50556242274412, 
+        "real_freq": 483.0, 
+        "name": "baan", 
+        "key": "baan", 
+        "pages": [
+            {
+                "NETHERLANDS": 99.50556242274412
+            }
+        ]
+    }, 
+    {
+        "count": 97.03337453646476, 
+        "real_freq": 471.0, 
+        "name": "regering", 
+        "key": "regering", 
+        "pages": [
+            {
+                "NETHERLANDS": 97.03337453646476
+            }
+        ]
+    }, 
+    {
+        "count": 96.41532756489494, 
+        "real_freq": 468.0, 
+        "name": "islam", 
+        "key": "islam", 
+        "pages": [
+            {
+                "NETHERLANDS": 96.41532756489494
+            }
+        ]
+    }, 
+    {
+        "count": 77.04985578903997, 
+        "real_freq": 374.0, 
+        "name": "turks", 
+        "key": "turk", 
+        "pages": [
+            {
+                "NETHERLANDS": 77.04985578903997
+            }
+        ]
+    }, 
+    {
+        "count": 65.71899464359292, 
+        "real_freq": 319.0, 
+        "name": "buitenlanders", 
+        "key": "buitenlander", 
+        "pages": [
+            {
+                "NETHERLANDS": 65.71899464359292
+            }
+        ]
+    }, 
+    {
+        "count": 65.51297898640297, 
+        "real_freq": 318.0, 
+        "name": "moslims", 
+        "key": "moslim", 
+        "pages": [
+            {
+                "NETHERLANDS": 65.51297898640297
+            }
+        ]
+    }, 
+    {
+        "count": 61.39266584260404, 
+        "real_freq": 298.0, 
+        "name": "democratie", 
+        "key": "democra", 
+        "pages": [
+            {
+                "NETHERLANDS": 61.39266584260404
+            }
+        ]
+    }, 
+    {
+        "count": 55.41821178409559, 
+        "real_freq": 269.0, 
+        "name": "brussel", 
+        "key": "brussel", 
+        "pages": [
+            {
+                "NETHERLANDS": 55.41821178409559
+            }
+        ]
+    }, 
+    {
+        "count": 52.94602389781623, 
+        "real_freq": 257.0, 
+        "name": "grens", 
+        "key": "gren", 
+        "pages": [
+            {
+                "NETHERLANDS": 52.94602389781623
+            }
+        ]
+    }, 
+    {
+        "count": 52.94602389781623, 
+        "real_freq": 257.0, 
+        "name": "banken", 
+        "key": "bank", 
+        "pages": [
+            {
+                "NETHERLANDS": 52.94602389781623
+            }
+        ]
+    }, 
+    {
+        "count": 52.533992583436344, 
+        "real_freq": 255.0, 
+        "name": "crisis", 
+        "key": "crisi", 
+        "pages": [
+            {
+                "NETHERLANDS": 52.533992583436344
+            }
+        ]
+    }, 
+    {
+        "count": 43.05727235269881, 
+        "real_freq": 209.0, 
+        "name": "buitenlandse", 
+        "key": "buitenlands", 
+        "pages": [
+            {
+                "NETHERLANDS": 43.05727235269881
+            }
+        ]
+    }, 
+    {
+        "count": 39.34899052327977, 
+        "real_freq": 191.0, 
+        "name": "markt", 
+        "key": "markt", 
+        "pages": [
+            {
+                "NETHERLANDS": 39.34899052327977
+            }
+        ]
+    }, 
+    {
+        "count": 35.0226617222909, 
+        "real_freq": 170.0, 
+        "name": "corrupte", 
+        "key": "corrupt", 
+        "pages": [
+            {
+                "NETHERLANDS": 35.0226617222909
+            }
+        ]
+    }, 
+    {
+        "count": 32.756489493201485, 
+        "real_freq": 159.0, 
+        "name": "moskeeen", 
+        "key": "moskee", 
+        "pages": [
+            {
+                "NETHERLANDS": 32.756489493201485
+            }
+        ]
+    }, 
+    {
+        "count": 23.69180057684384, 
+        "real_freq": 115.0, 
+        "name": "roemenen", 
+        "key": "roeme", 
+        "pages": [
+            {
+                "NETHERLANDS": 23.69180057684384
+            }
+        ]
+    }, 
+    {
+        "count": 17.717346518335393, 
+        "real_freq": 86.0, 
+        "name": "fraude", 
+        "key": "fraud", 
+        "pages": [
+            {
+                "NETHERLANDS": 17.717346518335393
+            }
+        ]
+    }, 
+    {
+        "count": 14.627111660486197, 
+        "real_freq": 71.0, 
+        "name": "government", 
+        "key": "government", 
+        "pages": [
+            {
+                "NETHERLANDS": 14.627111660486197
+            }
+        ]
+    }, 
+    {
+        "count": 14.215080346106305, 
+        "real_freq": 69.0, 
+        "name": "immigranten", 
+        "key": "immigr", 
+        "pages": [
+            {
+                "NETHERLANDS": 14.215080346106305
+            }
+        ]
+    }, 
+    {
+        "count": 13.597033374536464, 
+        "real_freq": 66.0, 
+        "name": "elite", 
+        "key": "elite", 
+        "pages": [
+            {
+                "NETHERLANDS": 13.597033374536464
+            }
+        ]
+    }, 
+    {
+        "count": 11.742892459826948, 
+        "real_freq": 57.0, 
+        "name": "referendum", 
+        "key": "referendum", 
+        "pages": [
+            {
+                "NETHERLANDS": 11.742892459826948
+            }
+        ]
+    }, 
+    {
+        "count": 10.712814173877215, 
+        "real_freq": 52.0, 
+        "name": "marine", 
+        "key": "marine", 
+        "pages": [
+            {
+                "NETHERLANDS": 10.712814173877215
+            }
+        ]
+    }, 
+    {
+        "count": 8.240626287597857, 
+        "real_freq": 40.0, 
+        "name": "ep2014", 
+        "key": "ep2014", 
+        "pages": [
+            {
+                "NETHERLANDS": 8.240626287597857
+            }
+        ]
+    }, 
+    {
+        "count": 7.622579316028018, 
+        "real_freq": 37.0, 
+        "name": "people", 
+        "key": "people", 
+        "pages": [
+            {
+                "NETHERLANDS": 7.622579316028018
+            }
+        ]
+    }, 
+    {
+        "count": 7.004532344458179, 
+        "real_freq": 34.0, 
+        "name": "vote", 
+        "key": "vot", 
+        "pages": [
+            {
+                "NETHERLANDS": 7.004532344458179
+            }
+        ]
+    }, 
+    {
+        "count": 6.38648537288834, 
+        "real_freq": 31.0, 
+        "name": "frans", 
+        "key": "fran", 
+        "pages": [
+            {
+                "NETHERLANDS": 6.38648537288834
+            }
+        ]
+    }, 
+    {
+        "count": 4.532344458178822, 
+        "real_freq": 22.0, 
+        "name": "pers", 
+        "key": "pers", 
+        "pages": [
+            {
+                "NETHERLANDS": 4.532344458178822
+            }
+        ]
+    }, 
+    {
+        "count": 3.914297486608982, 
+        "real_freq": 19.0, 
+        "name": "muslims", 
+        "key": "muslim", 
+        "pages": [
+            {
+                "NETHERLANDS": 3.914297486608982
+            }
+        ]
+    }, 
+    {
+        "count": 3.5022661722290893, 
+        "real_freq": 17.0, 
+        "name": "work", 
+        "key": "work", 
+        "pages": [
+            {
+                "NETHERLANDS": 3.5022661722290893
+            }
+        ]
+    }, 
+    {
+        "count": 3.0902348578491963, 
+        "real_freq": 15.0, 
+        "name": "cares", 
+        "key": "care", 
+        "pages": [
+            {
+                "NETHERLANDS": 3.0902348578491963
+            }
+        ]
+    }, 
+    {
+        "count": 2.88421920065925, 
+        "real_freq": 14.0, 
+        "name": "national", 
+        "key": "nation", 
+        "pages": [
+            {
+                "NETHERLANDS": 2.88421920065925
+            }
+        ]
+    }, 
+    {
+        "count": 1.854140914709518, 
+        "real_freq": 9.0, 
+        "name": "merkel", 
+        "key": "merkel", 
+        "pages": [
+            {
+                "NETHERLANDS": 1.854140914709518
+            }
+        ]
+    }, 
+    {
+        "count": 1.6481252575195715, 
+        "real_freq": 8.0, 
+        "name": "natie", 
+        "key": "natie", 
+        "pages": [
+            {
+                "NETHERLANDS": 1.6481252575195715
+            }
+        ]
+    }, 
+    {
+        "count": 1.442109600329625, 
+        "real_freq": 7.0, 
+        "name": "jobs", 
+        "key": "job", 
+        "pages": [
+            {
+                "NETHERLANDS": 1.442109600329625
+            }
+        ]
+    }, 
+    {
+        "count": 1.2360939431396785, 
+        "real_freq": 6.0, 
+        "name": "foreign", 
+        "key": "foreign", 
+        "pages": [
+            {
+                "NETHERLANDS": 1.2360939431396785
+            }
+        ]
+    }, 
+    {
+        "count": 1.2360939431396785, 
+        "real_freq": 6.0, 
+        "name": "mosques", 
+        "key": "mosque", 
+        "pages": [
+            {
+                "NETHERLANDS": 1.2360939431396785
+            }
+        ]
+    }, 
+    {
+        "count": 1.0300782859497322, 
+        "real_freq": 5.0, 
+        "name": "romania", 
+        "key": "rom", 
+        "pages": [
+            {
+                "NETHERLANDS": 1.0300782859497322
+            }
+        ]
+    }, 
+    {
+        "count": 0.8240626287597858, 
+        "real_freq": 4.0, 
+        "name": "farage", 
+        "key": "farage", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.8240626287597858
+            }
+        ]
+    }, 
+    {
+        "count": 0.8240626287597858, 
+        "real_freq": 4.0, 
+        "name": "regions", 
+        "key": "region", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.8240626287597858
+            }
+        ]
+    }, 
+    {
+        "count": 0.8240626287597858, 
+        "real_freq": 4.0, 
+        "name": "multiculturalisme", 
+        "key": "multiculturalism", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.8240626287597858
+            }
+        ]
+    }, 
+    {
+        "count": 0.6180469715698392, 
+        "real_freq": 3.0, 
+        "name": "taxes", 
+        "key": "tax", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.6180469715698392
+            }
+        ]
+    }, 
+    {
+        "count": 0.6180469715698392, 
+        "real_freq": 3.0, 
+        "name": "homosexuele", 
+        "key": "homosexu", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.6180469715698392
+            }
+        ]
+    }, 
+    {
+        "count": 0.6180469715698392, 
+        "real_freq": 3.0, 
+        "name": "marketing", 
+        "key": "market", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.6180469715698392
+            }
+        ]
+    }, 
+    {
+        "count": 0.6180469715698392, 
+        "real_freq": 3.0, 
+        "name": "sold", 
+        "key": "sold", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.6180469715698392
+            }
+        ]
+    }, 
+    {
+        "count": 0.4120313143798929, 
+        "real_freq": 2.0, 
+        "name": "benefit", 
+        "key": "benefit", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.4120313143798929
+            }
+        ]
+    }, 
+    {
+        "count": 0.4120313143798929, 
+        "real_freq": 2.0, 
+        "name": "election", 
+        "key": "election", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.4120313143798929
+            }
+        ]
+    }, 
+    {
+        "count": 0.20601565718994644, 
+        "real_freq": 1.0, 
+        "name": "unemployment", 
+        "key": "unemploy", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.20601565718994644
+            }
+        ]
+    }, 
+    {
+        "count": 0.20601565718994644, 
+        "real_freq": 1.0, 
+        "name": "austerity", 
+        "key": "auster", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.20601565718994644
+            }
+        ]
+    }, 
+    {
+        "count": 0.20601565718994644, 
+        "real_freq": 1.0, 
+        "name": "gays", 
+        "key": "gay", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.20601565718994644
+            }
+        ]
+    }, 
+    {
+        "count": 0.20601565718994644, 
+        "real_freq": 1.0, 
+        "name": "borders", 
+        "key": "border", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.20601565718994644
+            }
+        ]
+    }, 
+    {
+        "count": 0.20601565718994644, 
+        "real_freq": 1.0, 
+        "name": "cameron", 
+        "key": "cameron", 
+        "pages": [
+            {
+                "NETHERLANDS": 0.20601565718994644
+            }
+        ]
+    }, 
+    {
+        "count": 1000.0, 
+        "real_freq": 19958.0, 
+        "name": "italiani", 
+        "key": "italia", 
+        "pages": [
+            {
+                "ITALY": 1000.0
+            }
+        ]
+    }, 
+    {
+        "count": 943.5314159735444, 
+        "real_freq": 18831.0, 
+        "name": "renzi", 
+        "key": "renzi", 
+        "pages": [
+            {
+                "ITALY": 943.5314159735444
+            }
+        ]
+    }, 
+    {
+        "count": 756.7892574406253, 
+        "real_freq": 15104.0, 
+        "name": "europa", 
+        "key": "eu", 
+        "pages": [
+            {
+                "ITALY": 756.7892574406253
+            }
+        ]
+    }, 
+    {
+        "count": 335.9054013428199, 
+        "real_freq": 6704.0, 
+        "name": "governo", 
+        "key": "governo", 
+        "pages": [
+            {
+                "ITALY": 335.9054013428199
+            }
+        ]
+    }, 
+    {
+        "count": 223.46928549954904, 
+        "real_freq": 4460.0, 
+        "name": "soldi", 
+        "key": "sold", 
+        "pages": [
+            {
+                "ITALY": 223.46928549954904
+            }
+        ]
+    }, 
+    {
+        "count": 180.22847980759596, 
+        "real_freq": 3597.0, 
+        "name": "popolo", 
+        "key": "popolo", 
+        "pages": [
+            {
+                "ITALY": 180.22847980759596
+            }
+        ]
+    }, 
+    {
+        "count": 176.77121956107828, 
+        "real_freq": 3528.0, 
+        "name": "lavoro", 
+        "key": "lavor", 
+        "pages": [
+            {
+                "ITALY": 176.77121956107828
+            }
+        ]
+    }, 
+    {
+        "count": 169.35564685840265, 
+        "real_freq": 3380.0, 
+        "name": "roma", 
+        "key": "rom", 
+        "pages": [
+            {
+                "ITALY": 169.35564685840265
+            }
+        ]
+    }, 
+    {
+        "count": 150.1653472291813, 
+        "real_freq": 2997.0, 
+        "name": "voto", 
+        "key": "vot", 
+        "pages": [
+            {
+                "ITALY": 150.1653472291813
+            }
+        ]
+    }, 
+    {
+        "count": 124.51147409560076, 
+        "real_freq": 2485.0, 
+        "name": "tasse", 
+        "key": "tass", 
+        "pages": [
+            {
+                "ITALY": 124.51147409560076
+            }
+        ]
+    }, 
+    {
+        "count": 112.33590540134281, 
+        "real_freq": 2242.0, 
+        "name": "elezioni", 
+        "key": "elez", 
+        "pages": [
+            {
+                "ITALY": 112.33590540134281
+            }
+        ]
+    }, 
+    {
+        "count": 98.85760096202024, 
+        "real_freq": 1973.0, 
+        "name": "democrazia", 
+        "key": "democra", 
+        "pages": [
+            {
+                "ITALY": 98.85760096202024
+            }
+        ]
+    }, 
+    {
+        "count": 70.04709890770617, 
+        "real_freq": 1398.0, 
+        "name": "destra", 
+        "key": "destra", 
+        "pages": [
+            {
+                "ITALY": 70.04709890770617
+            }
+        ]
+    }, 
+    {
+        "count": 69.44583625613788, 
+        "real_freq": 1386.0, 
+        "name": "merkel", 
+        "key": "merkel", 
+        "pages": [
+            {
+                "ITALY": 69.44583625613788
+            }
+        ]
+    }, 
+    {
+        "count": 69.19531015131777, 
+        "real_freq": 1381.0, 
+        "name": "regioni", 
+        "key": "region", 
+        "pages": [
+            {
+                "ITALY": 69.19531015131777
+            }
+        ]
+    }, 
+    {
+        "count": 67.79236396432509, 
+        "real_freq": 1353.0, 
+        "name": "nord", 
+        "key": "nord", 
+        "pages": [
+            {
+                "ITALY": 67.79236396432509
+            }
+        ]
+    }, 
+    {
+        "count": 57.82142499248422, 
+        "real_freq": 1154.0, 
+        "name": "referendum", 
+        "key": "referendum", 
+        "pages": [
+            {
+                "ITALY": 57.82142499248422
+            }
+        ]
+    }, 
+    {
+        "count": 53.311955105722014, 
+        "real_freq": 1064.0, 
+        "name": "economia", 
+        "key": "econom", 
+        "pages": [
+            {
+                "ITALY": 53.311955105722014
+            }
+        ]
+    }, 
+    {
+        "count": 49.8045896382403, 
+        "real_freq": 994.0, 
+        "name": "crisi", 
+        "key": "crisi", 
+        "pages": [
+            {
+                "ITALY": 49.8045896382403
+            }
+        ]
+    }, 
+    {
+        "count": 29.46186992684638, 
+        "real_freq": 588.0, 
+        "name": "bruxelles", 
+        "key": "bruxelles", 
+        "pages": [
+            {
+                "ITALY": 29.46186992684638
+            }
+        ]
+    }, 
+    {
+        "count": 29.46186992684638, 
+        "real_freq": 588.0, 
+        "name": "denaro", 
+        "key": "den", 
+        "pages": [
+            {
+                "ITALY": 29.46186992684638
+            }
+        ]
+    }, 
+    {
+        "count": 27.4576610882854, 
+        "real_freq": 548.0, 
+        "name": "stampa", 
+        "key": "stampa", 
+        "pages": [
+            {
+                "ITALY": 27.4576610882854
+            }
+        ]
+    }, 
+    {
+        "count": 26.305241006112837, 
+        "real_freq": 525.0, 
+        "name": "nazione", 
+        "key": "nazione", 
+        "pages": [
+            {
+                "ITALY": 26.305241006112837
+            }
+        ]
+    }, 
+    {
+        "count": 25.002505261048203, 
+        "real_freq": 499.0, 
+        "name": "corruzione", 
+        "key": "corruz", 
+        "pages": [
+            {
+                "ITALY": 25.002505261048203
+            }
+        ]
+    }, 
+    {
+        "count": 22.44713899188295, 
+        "real_freq": 448.0, 
+        "name": "onore", 
+        "key": "onore", 
+        "pages": [
+            {
+                "ITALY": 22.44713899188295
+            }
+        ]
+    }, 
+    {
+        "count": 21.344824130674418, 
+        "real_freq": 426.0, 
+        "name": "banca", 
+        "key": "banc", 
+        "pages": [
+            {
+                "ITALY": 21.344824130674418
+            }
+        ]
+    }, 
+    {
+        "count": 14.781040184387212, 
+        "real_freq": 295.0, 
+        "name": "immigrazione", 
+        "key": "immigr", 
+        "pages": [
+            {
+                "ITALY": 14.781040184387212
+            }
+        ]
+    }, 
+    {
+        "count": 14.580619300531115, 
+        "real_freq": 291.0, 
+        "name": "mercato", 
+        "key": "mercat", 
+        "pages": [
+            {
+                "ITALY": 14.580619300531115
+            }
+        ]
+    }, 
+    {
+        "count": 14.53051407956709, 
+        "real_freq": 290.0, 
+        "name": "sanita", 
+        "key": "sanita", 
+        "pages": [
+            {
+                "ITALY": 14.53051407956709
+            }
+        ]
+    }, 
+    {
+        "count": 13.127567892574406, 
+        "real_freq": 262.0, 
+        "name": "disoccupazione", 
+        "key": "disoccupazione", 
+        "pages": [
+            {
+                "ITALY": 13.127567892574406
+            }
+        ]
+    }, 
+    {
+        "count": 8.768413668704278, 
+        "real_freq": 175.0, 
+        "name": "federalista", 
+        "key": "federalis", 
+        "pages": [
+            {
+                "ITALY": 8.768413668704278
+            }
+        ]
+    }, 
+    {
+        "count": 7.666098807495741, 
+        "real_freq": 153.0, 
+        "name": "france", 
+        "key": "fran", 
+        "pages": [
+            {
+                "ITALY": 7.666098807495741
+            }
+        ]
+    }, 
+    {
+        "count": 5.311153422186592, 
+        "real_freq": 106.0, 
+        "name": "moschea", 
+        "key": "mosche", 
+        "pages": [
+            {
+                "ITALY": 5.311153422186592
+            }
+        ]
+    }, 
+    {
+        "count": 4.509469886762201, 
+        "real_freq": 90.0, 
+        "name": "extracomunitari", 
+        "key": "extra", 
+        "pages": [
+            {
+                "ITALY": 4.509469886762201
+            }
+        ]
+    }, 
+    {
+        "count": 4.309049002906103, 
+        "real_freq": 86.0, 
+        "name": "frontiere", 
+        "key": "frontier", 
+        "pages": [
+            {
+                "ITALY": 4.309049002906103
+            }
+        ]
+    }, 
+    {
+        "count": 3.8581020142298827, 
+        "real_freq": 77.0, 
+        "name": "jobs", 
+        "key": "job", 
+        "pages": [
+            {
+                "ITALY": 3.8581020142298827
+            }
+        ]
+    }, 
+    {
+        "count": 3.457260246517687, 
+        "real_freq": 69.0, 
+        "name": "elite", 
+        "key": "elite", 
+        "pages": [
+            {
+                "ITALY": 3.457260246517687
+            }
+        ]
+    }, 
+    {
+        "count": 3.4071550255536627, 
+        "real_freq": 68.0, 
+        "name": "marche", 
+        "key": "marche", 
+        "pages": [
+            {
+                "ITALY": 3.4071550255536627
+            }
+        ]
+    }, 
+    {
+        "count": 3.256839362661589, 
+        "real_freq": 65.0, 
+        "name": "frode", 
+        "key": "frode", 
+        "pages": [
+            {
+                "ITALY": 3.256839362661589
+            }
+        ]
+    }, 
+    {
+        "count": 3.256839362661589, 
+        "real_freq": 65.0, 
+        "name": "turchia", 
+        "key": "turc", 
+        "pages": [
+            {
+                "ITALY": 3.256839362661589
+            }
+        ]
+    }, 
+    {
+        "count": 2.655576711093296, 
+        "real_freq": 53.0, 
+        "name": "marketing", 
+        "key": "market", 
+        "pages": [
+            {
+                "ITALY": 2.655576711093296
+            }
+        ]
+    }, 
+    {
+        "count": 2.555366269165247, 
+        "real_freq": 51.0, 
+        "name": "austerita", 
+        "key": "auster", 
+        "pages": [
+            {
+                "ITALY": 2.555366269165247
+            }
+        ]
+    }, 
+    {
+        "count": 2.5052610482012225, 
+        "real_freq": 50.0, 
+        "name": "marine", 
+        "key": "marine", 
+        "pages": [
+            {
+                "ITALY": 2.5052610482012225
+            }
+        ]
+    }, 
+    {
+        "count": 2.2547349433811004, 
+        "real_freq": 45.0, 
+        "name": "draghi", 
+        "key": "draghi", 
+        "pages": [
+            {
+                "ITALY": 2.2547349433811004
+            }
+        ]
+    }, 
+    {
+        "count": 2.004208838560978, 
+        "real_freq": 40.0, 
+        "name": "straniero", 
+        "key": "stranier", 
+        "pages": [
+            {
+                "ITALY": 2.004208838560978
+            }
+        ]
+    }, 
+    {
+        "count": 1.7035775127768313, 
+        "real_freq": 34.0, 
+        "name": "campagne", 
+        "key": "campagne", 
+        "pages": [
+            {
+                "ITALY": 1.7035775127768313
+            }
+        ]
+    }, 
+    {
+        "count": 1.4530514079567092, 
+        "real_freq": 29.0, 
+        "name": "press", 
+        "key": "press", 
+        "pages": [
+            {
+                "ITALY": 1.4530514079567092
+            }
+        ]
+    }, 
+    {
+        "count": 1.4530514079567092, 
+        "real_freq": 29.0, 
+        "name": "bank", 
+        "key": "bank", 
+        "pages": [
+            {
+                "ITALY": 1.4530514079567092
+            }
+        ]
+    }, 
+    {
+        "count": 1.4029461869926845, 
+        "real_freq": 28.0, 
+        "name": "farage", 
+        "key": "farage", 
+        "pages": [
+            {
+                "ITALY": 1.4029461869926845
+            }
+        ]
+    }, 
+    {
+        "count": 1.2526305241006113, 
+        "real_freq": 25.0, 
+        "name": "people", 
+        "key": "people", 
+        "pages": [
+            {
+                "ITALY": 1.2526305241006113
+            }
+        ]
+    }, 
+    {
+        "count": 1.2526305241006113, 
+        "real_freq": 25.0, 
+        "name": "perse", 
+        "key": "pers", 
+        "pages": [
+            {
+                "ITALY": 1.2526305241006113
+            }
+        ]
+    }, 
+    {
+        "count": 1.2526305241006113, 
+        "real_freq": 25.0, 
+        "name": "national", 
+        "key": "nation", 
+        "pages": [
+            {
+                "ITALY": 1.2526305241006113
+            }
+        ]
+    }, 
+    {
+        "count": 1.2526305241006113, 
+        "real_freq": 25.0, 
+        "name": "care", 
+        "key": "care", 
+        "pages": [
+            {
+                "ITALY": 1.2526305241006113
+            }
+        ]
+    }, 
+    {
+        "count": 1.1023148612085378, 
+        "real_freq": 22.0, 
+        "name": "ep2014", 
+        "key": "ep2014", 
+        "pages": [
+            {
+                "ITALY": 1.1023148612085378
+            }
+        ]
+    }, 
+    {
+        "count": 0.9018939773524401, 
+        "real_freq": 18.0, 
+        "name": "cameron", 
+        "key": "cameron", 
+        "pages": [
+            {
+                "ITALY": 0.9018939773524401
+            }
+        ]
+    }, 
+    {
+        "count": 0.8517887563884157, 
+        "real_freq": 17.0, 
+        "name": "work", 
+        "key": "work", 
+        "pages": [
+            {
+                "ITALY": 0.8517887563884157
+            }
+        ]
+    }, 
+    {
+        "count": 0.8016835354243912, 
+        "real_freq": 16.0, 
+        "name": "islam", 
+        "key": "islam", 
+        "pages": [
+            {
+                "ITALY": 0.8016835354243912
+            }
+        ]
+    }, 
+    {
+        "count": 0.6513678725323179, 
+        "real_freq": 13.0, 
+        "name": "benefit", 
+        "key": "benefit", 
+        "pages": [
+            {
+                "ITALY": 0.6513678725323179
+            }
+        ]
+    }, 
+    {
+        "count": 0.6513678725323179, 
+        "real_freq": 13.0, 
+        "name": "fraude", 
+        "key": "fraud", 
+        "pages": [
+            {
+                "ITALY": 0.6513678725323179
+            }
+        ]
+    }, 
+    {
+        "count": 0.4509469886762201, 
+        "real_freq": 9.0, 
+        "name": "government", 
+        "key": "government", 
+        "pages": [
+            {
+                "ITALY": 0.4509469886762201
+            }
+        ]
+    }, 
+    {
+        "count": 0.3507365467481711, 
+        "real_freq": 7.0, 
+        "name": "corrompe", 
+        "key": "corromp", 
+        "pages": [
+            {
+                "ITALY": 0.3507365467481711
+            }
+        ]
+    }, 
+    {
+        "count": 0.3006313257841467, 
+        "real_freq": 6.0, 
+        "name": "musulmano", 
+        "key": "musulm", 
+        "pages": [
+            {
+                "ITALY": 0.3006313257841467
+            }
+        ]
+    }, 
+    {
+        "count": 0.3006313257841467, 
+        "real_freq": 6.0, 
+        "name": "foreign", 
+        "key": "foreign", 
+        "pages": [
+            {
+                "ITALY": 0.3006313257841467
+            }
+        ]
+    }, 
+    {
+        "count": 0.2505261048201223, 
+        "real_freq": 5.0, 
+        "name": "brusselles", 
+        "key": "brussel", 
+        "pages": [
+            {
+                "ITALY": 0.2505261048201223
+            }
+        ]
+    }, 
+    {
+        "count": 0.15031566289207335, 
+        "real_freq": 3.0, 
+        "name": "taxe", 
+        "key": "tax", 
+        "pages": [
+            {
+                "ITALY": 0.15031566289207335
+            }
+        ]
+    }, 
+    {
+        "count": 0.15031566289207335, 
+        "real_freq": 3.0, 
+        "name": "health", 
+        "key": "health", 
+        "pages": [
+            {
+                "ITALY": 0.15031566289207335
+            }
+        ]
+    }, 
+    {
+        "count": 0.15031566289207335, 
+        "real_freq": 3.0, 
+        "name": "muslim", 
+        "key": "muslim", 
+        "pages": [
+            {
+                "ITALY": 0.15031566289207335
+            }
+        ]
+    }, 
+    {
+        "count": 0.15031566289207335, 
+        "real_freq": 3.0, 
+        "name": "travail", 
+        "key": "travail", 
+        "pages": [
+            {
+                "ITALY": 0.15031566289207335
+            }
+        ]
+    }, 
+    {
+        "count": 0.15031566289207335, 
+        "real_freq": 3.0, 
+        "name": "wilders", 
+        "key": "wilders", 
+        "pages": [
+            {
+                "ITALY": 0.15031566289207335
+            }
+        ]
+    }, 
+    {
+        "count": 0.15031566289207335, 
+        "real_freq": 3.0, 
+        "name": "asylum", 
+        "key": "asylum", 
+        "pages": [
+            {
+                "ITALY": 0.15031566289207335
+            }
+        ]
+    }, 
+    {
+        "count": 0.15031566289207335, 
+        "real_freq": 3.0, 
+        "name": "election", 
+        "key": "election", 
+        "pages": [
+            {
+                "ITALY": 0.15031566289207335
+            }
+        ]
+    }, 
+    {
+        "count": 0.1002104419280489, 
+        "real_freq": 2.0, 
+        "name": "britain", 
+        "key": "britain", 
+        "pages": [
+            {
+                "ITALY": 0.1002104419280489
+            }
+        ]
+    }, 
+    {
+        "count": 0.1002104419280489, 
+        "real_freq": 2.0, 
+        "name": "turkey", 
+        "key": "turk", 
+        "pages": [
+            {
+                "ITALY": 0.1002104419280489
+            }
+        ]
+    }, 
+    {
+        "count": 0.1002104419280489, 
+        "real_freq": 2.0, 
+        "name": "gauche", 
+        "key": "gauche", 
+        "pages": [
+            {
+                "ITALY": 0.1002104419280489
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "etranger", 
+        "key": "etranger", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "haag", 
+        "key": "haag", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "borders", 
+        "key": "border", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "homosexuels", 
+        "key": "homosexu", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "corruptions", 
+        "key": "corrupt", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "rumene", 
+        "key": "rumen", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "multiculturalismo", 
+        "key": "multiculturalism", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "chomage", 
+        "key": "chom", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 0.05010522096402445, 
+        "real_freq": 1.0, 
+        "name": "ruma", 
+        "key": "ruma", 
+        "pages": [
+            {
+                "ITALY": 0.05010522096402445
+            }
+        ]
+    }, 
+    {
+        "count": 1000.0, 
+        "real_freq": 9697.0, 
+        "name": "people", 
+        "key": "people", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 1000.0
+            }
+        ]
+    }, 
+    {
+        "count": 785.2944209549345, 
+        "real_freq": 7615.0, 
+        "name": "votes", 
+        "key": "vot", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 785.2944209549345
+            }
+        ]
+    }, 
+    {
+        "count": 548.1076621635558, 
+        "real_freq": 5315.0, 
+        "name": "worked", 
+        "key": "work", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 548.1076621635558
+            }
+        ]
+    }, 
+    {
+        "count": 344.7457976693823, 
+        "real_freq": 3343.0, 
+        "name": "government", 
+        "key": "government", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 344.7457976693823
+            }
+        ]
+    }, 
+    {
+        "count": 291.224089924719, 
+        "real_freq": 2824.0, 
+        "name": "cameron", 
+        "key": "cameron", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 291.224089924719
+            }
+        ]
+    }, 
+    {
+        "count": 286.89285345983296, 
+        "real_freq": 2782.0, 
+        "name": "europe", 
+        "key": "eu", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 286.89285345983296
+            }
+        ]
+    }, 
+    {
+        "count": 245.6429823656801, 
+        "real_freq": 2382.0, 
+        "name": "immigrants", 
+        "key": "immigr", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 245.6429823656801
+            }
+        ]
+    }, 
+    {
+        "count": 236.56801072496648, 
+        "real_freq": 2294.0, 
+        "name": "britain", 
+        "key": "britain", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 236.56801072496648
+            }
+        ]
+    }, 
+    {
+        "count": 214.08683097865318, 
+        "real_freq": 2076.0, 
+        "name": "muslim", 
+        "key": "muslim", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 214.08683097865318
+            }
+        ]
+    }, 
+    {
+        "count": 212.53996081262247, 
+        "real_freq": 2061.0, 
+        "name": "benefits", 
+        "key": "benefit", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 212.53996081262247
+            }
+        ]
+    }, 
+    {
+        "count": 173.45570795091265, 
+        "real_freq": 1682.0, 
+        "name": "national", 
+        "key": "nation", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 173.45570795091265
+            }
+        ]
+    }, 
+    {
+        "count": 154.6870166030731, 
+        "real_freq": 1500.0, 
+        "name": "election", 
+        "key": "election", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 154.6870166030731
+            }
+        ]
+    }, 
+    {
+        "count": 142.51830463029802, 
+        "real_freq": 1382.0, 
+        "name": "economic", 
+        "key": "econom", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 142.51830463029802
+            }
+        ]
+    }, 
+    {
+        "count": 140.352686397855, 
+        "real_freq": 1361.0, 
+        "name": "referendum", 
+        "key": "referendum", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 140.352686397855
+            }
+        ]
+    }, 
+    {
+        "count": 138.90894090955965, 
+        "real_freq": 1347.0, 
+        "name": "jobs", 
+        "key": "job", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 138.90894090955965
+            }
+        ]
+    }, 
+    {
+        "count": 138.80581623182428, 
+        "real_freq": 1346.0, 
+        "name": "farage", 
+        "key": "farage", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 138.80581623182428
+            }
+        ]
+    }, 
+    {
+        "count": 104.98092193461896, 
+        "real_freq": 1018.0, 
+        "name": "cares", 
+        "key": "care", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 104.98092193461896
+            }
+        ]
+    }, 
+    {
+        "count": 100.75281014746828, 
+        "real_freq": 977.0, 
+        "name": "islamic", 
+        "key": "islam", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 100.75281014746828
+            }
+        ]
+    }, 
+    {
+        "count": 80.64349798906878, 
+        "real_freq": 782.0, 
+        "name": "banks", 
+        "key": "bank", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 80.64349798906878
+            }
+        ]
+    }, 
+    {
+        "count": 77.85913169021347, 
+        "real_freq": 755.0, 
+        "name": "unemployed", 
+        "key": "unemploy", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 77.85913169021347
+            }
+        ]
+    }, 
+    {
+        "count": 76.31226152418273, 
+        "real_freq": 740.0, 
+        "name": "democracy", 
+        "key": "democra", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 76.31226152418273
+            }
+        ]
+    }, 
+    {
+        "count": 73.01227183665051, 
+        "real_freq": 708.0, 
+        "name": "foreigners", 
+        "key": "foreign", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 73.01227183665051
+            }
+        ]
+    }, 
+    {
+        "count": 61.87480664122925, 
+        "real_freq": 600.0, 
+        "name": "taxes", 
+        "key": "tax", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 61.87480664122925
+            }
+        ]
+    }, 
+    {
+        "count": 52.07796225636795, 
+        "real_freq": 505.0, 
+        "name": "corrupt", 
+        "key": "corrupt", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 52.07796225636795
+            }
+        ]
+    }, 
+    {
+        "count": 37.74363205114984, 
+        "real_freq": 366.0, 
+        "name": "health", 
+        "key": "health", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 37.74363205114984
+            }
+        ]
+    }, 
+    {
+        "count": 29.596782510054656, 
+        "real_freq": 287.0, 
+        "name": "border", 
+        "key": "border", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 29.596782510054656
+            }
+        ]
+    }, 
+    {
+        "count": 29.28740847684851, 
+        "real_freq": 284.0, 
+        "name": "market", 
+        "key": "market", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 29.28740847684851
+            }
+        ]
+    }, 
+    {
+        "count": 29.28740847684851, 
+        "real_freq": 284.0, 
+        "name": "mosques", 
+        "key": "mosque", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 29.28740847684851
+            }
+        ]
+    }, 
+    {
+        "count": 28.35928637723007, 
+        "real_freq": 275.0, 
+        "name": "sold", 
+        "key": "sold", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 28.35928637723007
+            }
+        ]
+    }, 
+    {
+        "count": 28.15303702175931, 
+        "real_freq": 273.0, 
+        "name": "press", 
+        "key": "press", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 28.15303702175931
+            }
+        ]
+    }, 
+    {
+        "count": 27.22491492214087, 
+        "real_freq": 264.0, 
+        "name": "crisis", 
+        "key": "crisi", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 27.22491492214087
+            }
+        ]
+    }, 
+    {
+        "count": 23.099927812725586, 
+        "real_freq": 224.0, 
+        "name": "brussels", 
+        "key": "brussel", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 23.099927812725586
+            }
+        ]
+    }, 
+    {
+        "count": 20.41868619160565, 
+        "real_freq": 198.0, 
+        "name": "fraud", 
+        "key": "fraud", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 20.41868619160565
+            }
+        ]
+    }, 
+    {
+        "count": 18.35619263689801, 
+        "real_freq": 178.0, 
+        "name": "merkel", 
+        "key": "merkel", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 18.35619263689801
+            }
+        ]
+    }, 
+    {
+        "count": 15.056202949365783, 
+        "real_freq": 146.0, 
+        "name": "austerity", 
+        "key": "auster", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 15.056202949365783
+            }
+        ]
+    }, 
+    {
+        "count": 14.540579560688874, 
+        "real_freq": 141.0, 
+        "name": "elite", 
+        "key": "elite", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 14.540579560688874
+            }
+        ]
+    }, 
+    {
+        "count": 14.024956172011962, 
+        "real_freq": 136.0, 
+        "name": "france", 
+        "key": "fran", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 14.024956172011962
+            }
+        ]
+    }, 
+    {
+        "count": 13.096834072393523, 
+        "real_freq": 127.0, 
+        "name": "turkey", 
+        "key": "turk", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 13.096834072393523
+            }
+        ]
+    }, 
+    {
+        "count": 12.993709394658142, 
+        "real_freq": 126.0, 
+        "name": "regions", 
+        "key": "region", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 12.993709394658142
+            }
+        ]
+    }, 
+    {
+        "count": 7.528101474682892, 
+        "real_freq": 73.0, 
+        "name": "asylum", 
+        "key": "asylum", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 7.528101474682892
+            }
+        ]
+    }, 
+    {
+        "count": 5.156233886769104, 
+        "real_freq": 50.0, 
+        "name": "federalist", 
+        "key": "federalis", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 5.156233886769104
+            }
+        ]
+    }, 
+    {
+        "count": 4.228111787150666, 
+        "real_freq": 41.0, 
+        "name": "homosexual", 
+        "key": "homosexu", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 4.228111787150666
+            }
+        ]
+    }, 
+    {
+        "count": 4.021862431679901, 
+        "real_freq": 39.0, 
+        "name": "romania", 
+        "key": "rom", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 4.021862431679901
+            }
+        ]
+    }, 
+    {
+        "count": 3.1968650097968445, 
+        "real_freq": 31.0, 
+        "name": "multiculturalism", 
+        "key": "multiculturalism", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 3.1968650097968445
+            }
+        ]
+    }, 
+    {
+        "count": 2.1656182324430238, 
+        "real_freq": 21.0, 
+        "name": "gays", 
+        "key": "gay", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 2.1656182324430238
+            }
+        ]
+    }, 
+    {
+        "count": 1.7531195215014952, 
+        "real_freq": 17.0, 
+        "name": "marine", 
+        "key": "marine", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 1.7531195215014952
+            }
+        ]
+    }, 
+    {
+        "count": 1.5468701660307311, 
+        "real_freq": 15.0, 
+        "name": "marches", 
+        "key": "marche", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 1.5468701660307311
+            }
+        ]
+    }, 
+    {
+        "count": 1.443745488295349, 
+        "real_freq": 14.0, 
+        "name": "stem", 
+        "key": "stem", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 1.443745488295349
+            }
+        ]
+    }, 
+    {
+        "count": 1.340620810559967, 
+        "real_freq": 13.0, 
+        "name": "ep2014", 
+        "key": "ep2014", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 1.340620810559967
+            }
+        ]
+    }, 
+    {
+        "count": 0.8249974218830567, 
+        "real_freq": 8.0, 
+        "name": "rumania", 
+        "key": "ruma", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.8249974218830567
+            }
+        ]
+    }, 
+    {
+        "count": 0.41249871094152835, 
+        "real_freq": 4.0, 
+        "name": "volk", 
+        "key": "volk", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.41249871094152835
+            }
+        ]
+    }, 
+    {
+        "count": 0.41249871094152835, 
+        "real_freq": 4.0, 
+        "name": "italia", 
+        "key": "italia", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.41249871094152835
+            }
+        ]
+    }, 
+    {
+        "count": 0.3093740332061462, 
+        "real_freq": 3.0, 
+        "name": "moslim", 
+        "key": "moslim", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.3093740332061462
+            }
+        ]
+    }, 
+    {
+        "count": 0.20624935547076417, 
+        "real_freq": 2.0, 
+        "name": "nederland", 
+        "key": "nederland", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.20624935547076417
+            }
+        ]
+    }, 
+    {
+        "count": 0.20624935547076417, 
+        "real_freq": 2.0, 
+        "name": "pers", 
+        "key": "pers", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.20624935547076417
+            }
+        ]
+    }, 
+    {
+        "count": 0.20624935547076417, 
+        "real_freq": 2.0, 
+        "name": "nazione", 
+        "key": "nazione", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.20624935547076417
+            }
+        ]
+    }, 
+    {
+        "count": 0.20624935547076417, 
+        "real_freq": 2.0, 
+        "name": "wilders", 
+        "key": "wilders", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.20624935547076417
+            }
+        ]
+    }, 
+    {
+        "count": 0.20624935547076417, 
+        "real_freq": 2.0, 
+        "name": "dens", 
+        "key": "den", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.20624935547076417
+            }
+        ]
+    }, 
+    {
+        "count": 0.10312467773538209, 
+        "real_freq": 1.0, 
+        "name": "frontier", 
+        "key": "frontier", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.10312467773538209
+            }
+        ]
+    }, 
+    {
+        "count": 0.10312467773538209, 
+        "real_freq": 1.0, 
+        "name": "popolo", 
+        "key": "popolo", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.10312467773538209
+            }
+        ]
+    }, 
+    {
+        "count": 0.10312467773538209, 
+        "real_freq": 1.0, 
+        "name": "verkiezingen", 
+        "key": "verkiezing", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.10312467773538209
+            }
+        ]
+    }, 
+    {
+        "count": 0.10312467773538209, 
+        "real_freq": 1.0, 
+        "name": "banca", 
+        "key": "banc", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.10312467773538209
+            }
+        ]
+    }, 
+    {
+        "count": 0.10312467773538209, 
+        "real_freq": 1.0, 
+        "name": "werks", 
+        "key": "werk", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.10312467773538209
+            }
+        ]
+    }, 
+    {
+        "count": 0.10312467773538209, 
+        "real_freq": 1.0, 
+        "name": "renzi", 
+        "key": "renzi", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.10312467773538209
+            }
+        ]
+    }, 
+    {
+        "count": 0.10312467773538209, 
+        "real_freq": 1.0, 
+        "name": "nord", 
+        "key": "nord", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.10312467773538209
+            }
+        ]
+    }, 
+    {
+        "count": 0.10312467773538209, 
+        "real_freq": 1.0, 
+        "name": "tasse", 
+        "key": "tass", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 0.10312467773538209
+            }
+        ]
+    }
+]

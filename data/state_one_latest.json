@@ -1,0 +1,1442 @@
+[
+    {
+        "count": 10631.0, 
+        "name": "italia", 
+        "key": "italia", 
+        "pages": [
+            {
+                "ITALY": 10628.0
+            }, 
+            {
+                "UNITED KINGDOM": 3.0
+            }
+        ]
+    }, 
+    {
+        "count": 6820.0, 
+        "name": "europe", 
+        "key": "eu", 
+        "pages": [
+            {
+                "ITALY": 5289.0
+            }, 
+            {
+                "UNITED KINGDOM": 897.0
+            }, 
+            {
+                "FRANCE": 60.0
+            }, 
+            {
+                "NETHERLANDS": 574.0
+            }
+        ]
+    }, 
+    {
+        "count": 5967.0, 
+        "name": "renzi", 
+        "key": "renzi", 
+        "pages": [
+            {
+                "ITALY": 5967.0
+            }
+        ]
+    }, 
+    {
+        "count": 4037.0, 
+        "name": "vote", 
+        "key": "vot", 
+        "pages": [
+            {
+                "ITALY": 1410.0
+            }, 
+            {
+                "UNITED KINGDOM": 2568.0
+            }, 
+            {
+                "FRANCE": 42.0
+            }, 
+            {
+                "NETHERLANDS": 17.0
+            }
+        ]
+    }, 
+    {
+        "count": 3515.0, 
+        "name": "people", 
+        "key": "people", 
+        "pages": [
+            {
+                "ITALY": 12.0
+            }, 
+            {
+                "UNITED KINGDOM": 3485.0
+            }, 
+            {
+                "FRANCE": 2.0
+            }, 
+            {
+                "NETHERLANDS": 16.0
+            }
+        ]
+    }, 
+    {
+        "count": 2566.0, 
+        "name": "governo", 
+        "key": "governo", 
+        "pages": [
+            {
+                "ITALY": 2566.0
+            }
+        ]
+    }, 
+    {
+        "count": 2476.0, 
+        "name": "popolo", 
+        "key": "popolo", 
+        "pages": [
+            {
+                "ITALY": 2476.0
+            }
+        ]
+    }, 
+    {
+        "count": 2421.0, 
+        "name": "sold", 
+        "key": "sold", 
+        "pages": [
+            {
+                "ITALY": 2287.0
+            }, 
+            {
+                "UNITED KINGDOM": 128.0
+            }, 
+            {
+                "FRANCE": 5.0
+            }, 
+            {
+                "NETHERLANDS": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 1836.0, 
+        "name": "work", 
+        "key": "work", 
+        "pages": [
+            {
+                "ITALY": 7.0
+            }, 
+            {
+                "UNITED KINGDOM": 1825.0
+            }, 
+            {
+                "NETHERLANDS": 4.0
+            }
+        ]
+    }, 
+    {
+        "count": 1685.0, 
+        "name": "lavore", 
+        "key": "lavor", 
+        "pages": [
+            {
+                "ITALY": 1685.0
+            }
+        ]
+    }, 
+    {
+        "count": 1355.0, 
+        "name": "nederland", 
+        "key": "nederland", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 2.0
+            }, 
+            {
+                "NETHERLANDS": 1353.0
+            }
+        ]
+    }, 
+    {
+        "count": 1328.0, 
+        "name": "democratie", 
+        "key": "democra", 
+        "pages": [
+            {
+                "ITALY": 1030.0
+            }, 
+            {
+                "UNITED KINGDOM": 240.0
+            }, 
+            {
+                "FRANCE": 11.0
+            }, 
+            {
+                "NETHERLANDS": 47.0
+            }
+        ]
+    }, 
+    {
+        "count": 1265.0, 
+        "name": "stemmen", 
+        "key": "stem", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 9.0
+            }, 
+            {
+                "NETHERLANDS": 1256.0
+            }
+        ]
+    }, 
+    {
+        "count": 1204.0, 
+        "name": "tasse", 
+        "key": "tass", 
+        "pages": [
+            {
+                "ITALY": 1202.0
+            }, 
+            {
+                "FRANCE": 2.0
+            }
+        ]
+    }, 
+    {
+        "count": 1195.0, 
+        "name": "government", 
+        "key": "government", 
+        "pages": [
+            {
+                "ITALY": 4.0
+            }, 
+            {
+                "UNITED KINGDOM": 1186.0
+            }, 
+            {
+                "NETHERLANDS": 5.0
+            }
+        ]
+    }, 
+    {
+        "count": 1062.0, 
+        "name": "elez", 
+        "key": "elez", 
+        "pages": [
+            {
+                "ITALY": 1062.0
+            }
+        ]
+    }, 
+    {
+        "count": 989.0, 
+        "name": "economic", 
+        "key": "econom", 
+        "pages": [
+            {
+                "ITALY": 370.0
+            }, 
+            {
+                "UNITED KINGDOM": 411.0
+            }, 
+            {
+                "FRANCE": 10.0
+            }, 
+            {
+                "NETHERLANDS": 198.0
+            }
+        ]
+    }, 
+    {
+        "count": 970.0, 
+        "name": "cameron", 
+        "key": "cameron", 
+        "pages": [
+            {
+                "ITALY": 1.0
+            }, 
+            {
+                "UNITED KINGDOM": 969.0
+            }
+        ]
+    }, 
+    {
+        "count": 954.0, 
+        "name": "muslim", 
+        "key": "muslim", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 945.0
+            }, 
+            {
+                "NETHERLANDS": 9.0
+            }
+        ]
+    }, 
+    {
+        "count": 870.0, 
+        "name": "benefit", 
+        "key": "benefit", 
+        "pages": [
+            {
+                "ITALY": 6.0
+            }, 
+            {
+                "UNITED KINGDOM": 863.0
+            }, 
+            {
+                "NETHERLANDS": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 852.0, 
+        "name": "immigration", 
+        "key": "immigr", 
+        "pages": [
+            {
+                "ITALY": 56.0
+            }, 
+            {
+                "UNITED KINGDOM": 749.0
+            }, 
+            {
+                "FRANCE": 36.0
+            }, 
+            {
+                "NETHERLANDS": 11.0
+            }
+        ]
+    }, 
+    {
+        "count": 757.0, 
+        "name": "romania", 
+        "key": "rom", 
+        "pages": [
+            {
+                "ITALY": 728.0
+            }, 
+            {
+                "UNITED KINGDOM": 25.0
+            }, 
+            {
+                "FRANCE": 2.0
+            }, 
+            {
+                "NETHERLANDS": 2.0
+            }
+        ]
+    }, 
+    {
+        "count": 727.0, 
+        "name": "britain", 
+        "key": "britain", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 727.0
+            }
+        ]
+    }, 
+    {
+        "count": 676.0, 
+        "name": "national", 
+        "key": "nation", 
+        "pages": [
+            {
+                "ITALY": 16.0
+            }, 
+            {
+                "UNITED KINGDOM": 628.0
+            }, 
+            {
+                "FRANCE": 24.0
+            }, 
+            {
+                "NETHERLANDS": 8.0
+            }
+        ]
+    }, 
+    {
+        "count": 632.0, 
+        "name": "rutte", 
+        "key": "rutte", 
+        "pages": [
+            {
+                "NETHERLANDS": 632.0
+            }
+        ]
+    }, 
+    {
+        "count": 628.0, 
+        "name": "destra", 
+        "key": "destra", 
+        "pages": [
+            {
+                "ITALY": 628.0
+            }
+        ]
+    }, 
+    {
+        "count": 624.0, 
+        "name": "referendum", 
+        "key": "referendum", 
+        "pages": [
+            {
+                "ITALY": 250.0
+            }, 
+            {
+                "UNITED KINGDOM": 345.0
+            }, 
+            {
+                "FRANCE": 16.0
+            }, 
+            {
+                "NETHERLANDS": 13.0
+            }
+        ]
+    }, 
+    {
+        "count": 619.0, 
+        "name": "geld", 
+        "key": "geld", 
+        "pages": [
+            {
+                "NETHERLANDS": 619.0
+            }
+        ]
+    }, 
+    {
+        "count": 529.0, 
+        "name": "crisi", 
+        "key": "crisi", 
+        "pages": [
+            {
+                "ITALY": 367.0
+            }, 
+            {
+                "UNITED KINGDOM": 68.0
+            }, 
+            {
+                "NETHERLANDS": 94.0
+            }
+        ]
+    }, 
+    {
+        "count": 495.0, 
+        "name": "islam", 
+        "key": "islam", 
+        "pages": [
+            {
+                "ITALY": 6.0
+            }, 
+            {
+                "UNITED KINGDOM": 462.0
+            }, 
+            {
+                "FRANCE": 12.0
+            }, 
+            {
+                "NETHERLANDS": 15.0
+            }
+        ]
+    }, 
+    {
+        "count": 492.0, 
+        "name": "jobs", 
+        "key": "job", 
+        "pages": [
+            {
+                "ITALY": 23.0
+            }, 
+            {
+                "UNITED KINGDOM": 462.0
+            }, 
+            {
+                "NETHERLANDS": 7.0
+            }
+        ]
+    }, 
+    {
+        "count": 447.0, 
+        "name": "regions", 
+        "key": "region", 
+        "pages": [
+            {
+                "ITALY": 381.0
+            }, 
+            {
+                "UNITED KINGDOM": 62.0
+            }, 
+            {
+                "NETHERLANDS": 4.0
+            }
+        ]
+    }, 
+    {
+        "count": 442.0, 
+        "name": "cares", 
+        "key": "care", 
+        "pages": [
+            {
+                "ITALY": 18.0
+            }, 
+            {
+                "UNITED KINGDOM": 421.0
+            }, 
+            {
+                "NETHERLANDS": 3.0
+            }
+        ]
+    }, 
+    {
+        "count": 441.0, 
+        "name": "bank", 
+        "key": "bank", 
+        "pages": [
+            {
+                "ITALY": 21.0
+            }, 
+            {
+                "UNITED KINGDOM": 298.0
+            }, 
+            {
+                "NETHERLANDS": 122.0
+            }
+        ]
+    }, 
+    {
+        "count": 434.0, 
+        "name": "election", 
+        "key": "election", 
+        "pages": [
+            {
+                "ITALY": 1.0
+            }, 
+            {
+                "UNITED KINGDOM": 431.0
+            }, 
+            {
+                "FRANCE": 2.0
+            }
+        ]
+    }, 
+    {
+        "count": 419.0, 
+        "name": "werks", 
+        "key": "werk", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 1.0
+            }, 
+            {
+                "NETHERLANDS": 418.0
+            }
+        ]
+    }, 
+    {
+        "count": 415.0, 
+        "name": "nord", 
+        "key": "nord", 
+        "pages": [
+            {
+                "ITALY": 411.0
+            }, 
+            {
+                "FRANCE": 4.0
+            }
+        ]
+    }, 
+    {
+        "count": 412.0, 
+        "name": "france", 
+        "key": "fran", 
+        "pages": [
+            {
+                "ITALY": 26.0
+            }, 
+            {
+                "UNITED KINGDOM": 55.0
+            }, 
+            {
+                "FRANCE": 308.0
+            }, 
+            {
+                "NETHERLANDS": 23.0
+            }
+        ]
+    }, 
+    {
+        "count": 389.0, 
+        "name": "nazione", 
+        "key": "nazione", 
+        "pages": [
+            {
+                "ITALY": 387.0
+            }, 
+            {
+                "UNITED KINGDOM": 2.0
+            }
+        ]
+    }, 
+    {
+        "count": 389.0, 
+        "name": "farage", 
+        "key": "farage", 
+        "pages": [
+            {
+                "ITALY": 8.0
+            }, 
+            {
+                "UNITED KINGDOM": 378.0
+            }, 
+            {
+                "NETHERLANDS": 3.0
+            }
+        ]
+    }, 
+    {
+        "count": 371.0, 
+        "name": "zorg", 
+        "key": "zorg", 
+        "pages": [
+            {
+                "NETHERLANDS": 371.0
+            }
+        ]
+    }, 
+    {
+        "count": 370.0, 
+        "name": "dens", 
+        "key": "den", 
+        "pages": [
+            {
+                "ITALY": 369.0
+            }, 
+            {
+                "UNITED KINGDOM": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 355.0, 
+        "name": "kabinet", 
+        "key": "kabinet", 
+        "pages": [
+            {
+                "NETHERLANDS": 355.0
+            }
+        ]
+    }, 
+    {
+        "count": 344.0, 
+        "name": "onore", 
+        "key": "onore", 
+        "pages": [
+            {
+                "ITALY": 344.0
+            }
+        ]
+    }, 
+    {
+        "count": 342.0, 
+        "name": "wilders", 
+        "key": "wilders", 
+        "pages": [
+            {
+                "ITALY": 2.0
+            }, 
+            {
+                "UNITED KINGDOM": 2.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }, 
+            {
+                "NETHERLANDS": 337.0
+            }
+        ]
+    }, 
+    {
+        "count": 308.0, 
+        "name": "corruption", 
+        "key": "corrupt", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 236.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }, 
+            {
+                "NETHERLANDS": 71.0
+            }
+        ]
+    }, 
+    {
+        "count": 291.0, 
+        "name": "volk", 
+        "key": "volk", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 3.0
+            }, 
+            {
+                "NETHERLANDS": 288.0
+            }
+        ]
+    }, 
+    {
+        "count": 289.0, 
+        "name": "corruzione", 
+        "key": "corruz", 
+        "pages": [
+            {
+                "ITALY": 289.0
+            }
+        ]
+    }, 
+    {
+        "count": 284.0, 
+        "name": "banca", 
+        "key": "banc", 
+        "pages": [
+            {
+                "ITALY": 284.0
+            }
+        ]
+    }, 
+    {
+        "count": 275.0, 
+        "name": "verkiezingen", 
+        "key": "verkiezing", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 1.0
+            }, 
+            {
+                "NETHERLANDS": 274.0
+            }
+        ]
+    }, 
+    {
+        "count": 268.0, 
+        "name": "foreign", 
+        "key": "foreign", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 267.0
+            }, 
+            {
+                "NETHERLANDS": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 245.0, 
+        "name": "haag", 
+        "key": "haag", 
+        "pages": [
+            {
+                "ITALY": 1.0
+            }, 
+            {
+                "NETHERLANDS": 244.0
+            }
+        ]
+    }, 
+    {
+        "count": 241.0, 
+        "name": "stampa", 
+        "key": "stampa", 
+        "pages": [
+            {
+                "ITALY": 241.0
+            }
+        ]
+    }, 
+    {
+        "count": 241.0, 
+        "name": "regering", 
+        "key": "regering", 
+        "pages": [
+            {
+                "NETHERLANDS": 241.0
+            }
+        ]
+    }, 
+    {
+        "count": 232.0, 
+        "name": "merkel", 
+        "key": "merkel", 
+        "pages": [
+            {
+                "ITALY": 153.0
+            }, 
+            {
+                "UNITED KINGDOM": 75.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }, 
+            {
+                "NETHERLANDS": 3.0
+            }
+        ]
+    }, 
+    {
+        "count": 232.0, 
+        "name": "unemployable", 
+        "key": "unemploy", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 232.0
+            }
+        ]
+    }, 
+    {
+        "count": 221.0, 
+        "name": "taxes", 
+        "key": "tax", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 219.0
+            }, 
+            {
+                "NETHERLANDS": 2.0
+            }
+        ]
+    }, 
+    {
+        "count": 214.0, 
+        "name": "brussels", 
+        "key": "brussel", 
+        "pages": [
+            {
+                "ITALY": 1.0
+            }, 
+            {
+                "UNITED KINGDOM": 76.0
+            }, 
+            {
+                "NETHERLANDS": 137.0
+            }
+        ]
+    }, 
+    {
+        "count": 164.0, 
+        "name": "mosque", 
+        "key": "mosque", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 155.0
+            }, 
+            {
+                "FRANCE": 9.0
+            }
+        ]
+    }, 
+    {
+        "count": 136.0, 
+        "name": "baan", 
+        "key": "baan", 
+        "pages": [
+            {
+                "NETHERLANDS": 136.0
+            }
+        ]
+    }, 
+    {
+        "count": 130.0, 
+        "name": "turkey", 
+        "key": "turk", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 72.0
+            }, 
+            {
+                "NETHERLANDS": 58.0
+            }
+        ]
+    }, 
+    {
+        "count": 125.0, 
+        "name": "marketing", 
+        "key": "market", 
+        "pages": [
+            {
+                "ITALY": 28.0
+            }, 
+            {
+                "UNITED KINGDOM": 94.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }, 
+            {
+                "NETHERLANDS": 2.0
+            }
+        ]
+    }, 
+    {
+        "count": 124.0, 
+        "name": "banen", 
+        "key": "banen", 
+        "pages": [
+            {
+                "NETHERLANDS": 124.0
+            }
+        ]
+    }, 
+    {
+        "count": 121.0, 
+        "name": "health", 
+        "key": "health", 
+        "pages": [
+            {
+                "ITALY": 2.0
+            }, 
+            {
+                "UNITED KINGDOM": 119.0
+            }
+        ]
+    }, 
+    {
+        "count": 117.0, 
+        "name": "disoccupazione", 
+        "key": "disoccupazione", 
+        "pages": [
+            {
+                "ITALY": 117.0
+            }
+        ]
+    }, 
+    {
+        "count": 116.0, 
+        "name": "elite", 
+        "key": "elite", 
+        "pages": [
+            {
+                "ITALY": 43.0
+            }, 
+            {
+                "UNITED KINGDOM": 59.0
+            }, 
+            {
+                "FRANCE": 3.0
+            }, 
+            {
+                "NETHERLANDS": 11.0
+            }
+        ]
+    }, 
+    {
+        "count": 116.0, 
+        "name": "borders", 
+        "key": "border", 
+        "pages": [
+            {
+                "ITALY": 1.0
+            }, 
+            {
+                "UNITED KINGDOM": 115.0
+            }
+        ]
+    }, 
+    {
+        "count": 104.0, 
+        "name": "press", 
+        "key": "press", 
+        "pages": [
+            {
+                "ITALY": 13.0
+            }, 
+            {
+                "UNITED KINGDOM": 89.0
+            }, 
+            {
+                "FRANCE": 2.0
+            }
+        ]
+    }, 
+    {
+        "count": 103.0, 
+        "name": "buitenlander", 
+        "key": "buitenlander", 
+        "pages": [
+            {
+                "NETHERLANDS": 103.0
+            }
+        ]
+    }, 
+    {
+        "count": 88.0, 
+        "name": "marine", 
+        "key": "marine", 
+        "pages": [
+            {
+                "ITALY": 15.0
+            }, 
+            {
+                "UNITED KINGDOM": 6.0
+            }, 
+            {
+                "FRANCE": 67.0
+            }
+        ]
+    }, 
+    {
+        "count": 86.0, 
+        "name": "fraude", 
+        "key": "fraud", 
+        "pages": [
+            {
+                "ITALY": 11.0
+            }, 
+            {
+                "UNITED KINGDOM": 53.0
+            }, 
+            {
+                "NETHERLANDS": 22.0
+            }
+        ]
+    }, 
+    {
+        "count": 84.0, 
+        "name": "grens", 
+        "key": "gren", 
+        "pages": [
+            {
+                "NETHERLANDS": 84.0
+            }
+        ]
+    }, 
+    {
+        "count": 79.0, 
+        "name": "austerity", 
+        "key": "auster", 
+        "pages": [
+            {
+                "ITALY": 21.0
+            }, 
+            {
+                "UNITED KINGDOM": 56.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }, 
+            {
+                "NETHERLANDS": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 77.0, 
+        "name": "bruxelles", 
+        "key": "bruxelles", 
+        "pages": [
+            {
+                "ITALY": 73.0
+            }, 
+            {
+                "FRANCE": 4.0
+            }
+        ]
+    }, 
+    {
+        "count": 77.0, 
+        "name": "moslim", 
+        "key": "moslim", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 2.0
+            }, 
+            {
+                "NETHERLANDS": 75.0
+            }
+        ]
+    }, 
+    {
+        "count": 71.0, 
+        "name": "frontiere", 
+        "key": "frontier", 
+        "pages": [
+            {
+                "ITALY": 56.0
+            }, 
+            {
+                "FRANCE": 15.0
+            }
+        ]
+    }, 
+    {
+        "count": 71.0, 
+        "name": "federalist", 
+        "key": "federalis", 
+        "pages": [
+            {
+                "ITALY": 65.0
+            }, 
+            {
+                "UNITED KINGDOM": 5.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 70.0, 
+        "name": "sanita", 
+        "key": "sanita", 
+        "pages": [
+            {
+                "ITALY": 70.0
+            }
+        ]
+    }, 
+    {
+        "count": 67.0, 
+        "name": "mercato", 
+        "key": "mercat", 
+        "pages": [
+            {
+                "ITALY": 67.0
+            }
+        ]
+    }, 
+    {
+        "count": 62.0, 
+        "name": "campagne", 
+        "key": "campagne", 
+        "pages": [
+            {
+                "ITALY": 24.0
+            }, 
+            {
+                "FRANCE": 7.0
+            }, 
+            {
+                "NETHERLANDS": 31.0
+            }
+        ]
+    }, 
+    {
+        "count": 62.0, 
+        "name": "extracomunitarie", 
+        "key": "extra", 
+        "pages": [
+            {
+                "ITALY": 62.0
+            }
+        ]
+    }, 
+    {
+        "count": 57.0, 
+        "name": "frode", 
+        "key": "frode", 
+        "pages": [
+            {
+                "ITALY": 57.0
+            }
+        ]
+    }, 
+    {
+        "count": 47.0, 
+        "name": "marche", 
+        "key": "marche", 
+        "pages": [
+            {
+                "ITALY": 36.0
+            }, 
+            {
+                "UNITED KINGDOM": 5.0
+            }, 
+            {
+                "FRANCE": 6.0
+            }
+        ]
+    }, 
+    {
+        "count": 46.0, 
+        "name": "buitenlandse", 
+        "key": "buitenlands", 
+        "pages": [
+            {
+                "NETHERLANDS": 46.0
+            }
+        ]
+    }, 
+    {
+        "count": 42.0, 
+        "name": "roemenen", 
+        "key": "roeme", 
+        "pages": [
+            {
+                "NETHERLANDS": 42.0
+            }
+        ]
+    }, 
+    {
+        "count": 41.0, 
+        "name": "moskee", 
+        "key": "moskee", 
+        "pages": [
+            {
+                "NETHERLANDS": 41.0
+            }
+        ]
+    }, 
+    {
+        "count": 37.0, 
+        "name": "asylum", 
+        "key": "asylum", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 37.0
+            }
+        ]
+    }, 
+    {
+        "count": 36.0, 
+        "name": "markt", 
+        "key": "markt", 
+        "pages": [
+            {
+                "NETHERLANDS": 36.0
+            }
+        ]
+    }, 
+    {
+        "count": 28.0, 
+        "name": "gauche", 
+        "key": "gauche", 
+        "pages": [
+            {
+                "FRANCE": 28.0
+            }
+        ]
+    }, 
+    {
+        "count": 27.0, 
+        "name": "draghi", 
+        "key": "draghi", 
+        "pages": [
+            {
+                "ITALY": 27.0
+            }
+        ]
+    }, 
+    {
+        "count": 26.0, 
+        "name": "musulmans", 
+        "key": "musulm", 
+        "pages": [
+            {
+                "ITALY": 4.0
+            }, 
+            {
+                "FRANCE": 22.0
+            }
+        ]
+    }, 
+    {
+        "count": 25.0, 
+        "name": "travail", 
+        "key": "travail", 
+        "pages": [
+            {
+                "ITALY": 2.0
+            }, 
+            {
+                "FRANCE": 23.0
+            }
+        ]
+    }, 
+    {
+        "count": 23.0, 
+        "name": "etrangere", 
+        "key": "etranger", 
+        "pages": [
+            {
+                "FRANCE": 23.0
+            }
+        ]
+    }, 
+    {
+        "count": 23.0, 
+        "name": "straniere", 
+        "key": "stranier", 
+        "pages": [
+            {
+                "ITALY": 23.0
+            }
+        ]
+    }, 
+    {
+        "count": 19.0, 
+        "name": "multiculturalismo", 
+        "key": "multiculturalism", 
+        "pages": [
+            {
+                "ITALY": 1.0
+            }, 
+            {
+                "UNITED KINGDOM": 17.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 15.0, 
+        "name": "pers", 
+        "key": "pers", 
+        "pages": [
+            {
+                "ITALY": 10.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }, 
+            {
+                "NETHERLANDS": 4.0
+            }
+        ]
+    }, 
+    {
+        "count": 15.0, 
+        "name": "homosexuele", 
+        "key": "homosexu", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 11.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }, 
+            {
+                "NETHERLANDS": 3.0
+            }
+        ]
+    }, 
+    {
+        "count": 14.0, 
+        "name": "marokkaans", 
+        "key": "marokka", 
+        "pages": [
+            {
+                "NETHERLANDS": 14.0
+            }
+        ]
+    }, 
+    {
+        "count": 10.0, 
+        "name": "mosche", 
+        "key": "mosche", 
+        "pages": [
+            {
+                "ITALY": 10.0
+            }
+        ]
+    }, 
+    {
+        "count": 9.0, 
+        "name": "chomeur", 
+        "key": "chom", 
+        "pages": [
+            {
+                "FRANCE": 9.0
+            }
+        ]
+    }, 
+    {
+        "count": 8.0, 
+        "name": "turchia", 
+        "key": "turc", 
+        "pages": [
+            {
+                "ITALY": 8.0
+            }
+        ]
+    }, 
+    {
+        "count": 8.0, 
+        "name": "gays", 
+        "key": "gay", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 7.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 7.0, 
+        "name": "corrompe", 
+        "key": "corromp", 
+        "pages": [
+            {
+                "ITALY": 5.0
+            }, 
+            {
+                "FRANCE": 2.0
+            }
+        ]
+    }, 
+    {
+        "count": 6.0, 
+        "name": "rumania", 
+        "key": "ruma", 
+        "pages": [
+            {
+                "ITALY": 1.0
+            }, 
+            {
+                "UNITED KINGDOM": 5.0
+            }
+        ]
+    }, 
+    {
+        "count": 5.0, 
+        "name": "banquiers", 
+        "key": "banq", 
+        "pages": [
+            {
+                "FRANCE": 5.0
+            }
+        ]
+    }, 
+    {
+        "count": 4.0, 
+        "name": "natie", 
+        "key": "natie", 
+        "pages": [
+            {
+                "NETHERLANDS": 4.0
+            }
+        ]
+    }, 
+    {
+        "count": 1.0, 
+        "name": "ep2014", 
+        "key": "ep2014", 
+        "pages": [
+            {
+                "UNITED KINGDOM": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 1.0, 
+        "name": "rumene", 
+        "key": "rumen", 
+        "pages": [
+            {
+                "ITALY": 1.0
+            }
+        ]
+    }
+]

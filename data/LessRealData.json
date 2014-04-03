@@ -1,0 +1,184 @@
+[
+    {
+        "count": 26507.0, 
+        "name": "eu",
+        "key": "eu", 
+        "pages": [
+            {
+                "ITALY": 14435.0
+            }, 
+            {
+                "UNITED KINGDOM": 7751.0
+            }, 
+            {
+                "FRANCE": 1283.0
+            }, 
+            {
+                "NETHERLANDS": 3038.0
+            }
+        ]
+    }, 
+    {
+        "count": 19109.0, 
+        "name": "vot",
+        "key": "vot", 
+        "pages": [
+            {
+                "ITALY": 10911.0
+            }, 
+            {
+                "UNITED KINGDOM": 7077.0
+            }, 
+            {
+                "FRANCE": 1100.0
+            }, 
+            {
+                "NETHERLANDS": 21.0
+            }
+        ]
+    }, 
+    {
+        "count": 17603.0, 
+        "name": "italia", 
+        "key": "italia", 
+        "pages": [
+            {
+                "ITALY": 17587.0
+            }, 
+            {
+                "UNITED KINGDOM": 4.0
+            }, 
+            {
+                "FRANCE": 12.0
+            }
+        ]
+    }, 
+    {
+        "count": 10049.0, 
+        "name": "renzi",
+        "key": "renzi", 
+        "pages": [
+            {
+                "ITALY": 10047.0
+            }, 
+            {
+                "UNITED KINGDOM": 1.0
+            }, 
+            {
+                "FRANCE": 1.0
+            }
+        ]
+    }, 
+    {
+        "count": 9134.0, 
+        "name": "people", 
+        "key": "people", 
+        "pages": [
+            {
+                "ITALY": 24.0
+            }, 
+            {
+                "UNITED KINGDOM": 9064.0
+            }, 
+            {
+                "FRANCE": 9.0
+            }, 
+            {
+                "NETHERLANDS": 37.0
+            }
+        ]
+    }, 
+    {
+        "count": 6091.0, 
+        "name": "governo", 
+        "key": "governo", 
+        "pages": [
+            {
+                "ITALY": 6091.0
+            }
+        ]
+    }, 
+    {
+        "count": 5800.0, 
+        "name": "lavor",
+        "key": "lavor", 
+        "pages": [
+            {
+                "ITALY": 5800.0
+            }
+        ]
+    }, 
+    {
+        "count": 5091.0, 
+        "name": "work", 
+        "key": "work", 
+        "pages": [
+            {
+                "ITALY": 10.0
+            }, 
+            {
+                "UNITED KINGDOM": 5064.0
+            }, 
+            {
+                "NETHERLANDS": 17.0
+            }
+        ]
+    }, 
+    {
+        "count": 4552.0, 
+        "name": "ban", 
+        "key": "ban", 
+        "pages": [
+            {
+                "ITALY": 2680.0
+            }, 
+            {
+                "UNITED KINGDOM": 1243.0
+            }, 
+            {
+                "FRANCE": 11.0
+            }, 
+            {
+                "NETHERLANDS": 618.0
+            }
+        ]
+    }, 
+    {
+        "count": 4289.0, 
+        "name": "sold",
+        "key": "sold", 
+        "pages": [
+            {
+                "ITALY": 4011.0
+            }, 
+            {
+                "UNITED KINGDOM": 269.0
+            }, 
+            {
+                "FRANCE": 6.0
+            }, 
+            {
+                "NETHERLANDS": 3.0
+            }
+        ]
+    }, 
+    {
+        "count": 4248.0, 
+        "name": "econom",
+        "key": "econom", 
+        "pages": [
+            {
+                "ITALY": 2048.0
+            }, 
+            {
+                "UNITED KINGDOM": 1272.0
+            }, 
+            {
+                "FRANCE": 128.0
+            }, 
+            {
+                "NETHERLANDS": 800.0
+            }
+        ]
+    }
+]

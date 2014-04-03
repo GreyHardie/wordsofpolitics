@@ -1,0 +1,376 @@
+[ {
+        "count": "27",
+        "name": "governo",
+        "key": "governo",
+        "pages": [
+            {
+                "name": "oggi",
+                "key": "oggi",
+                "count": 19
+            },
+            {
+                "name": "governo",
+                "key": "governo",
+                "count": 18
+            },
+            {
+                "name": "forza_italia",
+                "key": "forza_italia",
+                "count": "10"
+            },
+            {
+                "name": "grazie",
+                "key": "grazie",
+                "count": "9"
+            },
+            {
+                "name": "istanze",
+                "key": "istanze",
+                "count": "9"
+            },
+            {
+                "name": "fare",
+                "key": "fare",
+                "count": "9"
+            },
+            {
+                "name": "tasse",
+                "key": "tasse",
+                "count": "2"
+            },
+            {
+                "name": "buon",
+                "key": "buon",
+                "count": "2"
+            },
+            {
+                "name": "ambizione",
+                "key": "ambizione",
+                "count": "1"
+            },
+            {
+                "name": "capisco",
+                "key": "capisco",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "4",
+        "name": "tasse",
+        "key": "tasse",
+        "pages": [
+            {
+                "name": "governo",
+                "key": "governo",
+                "count": "2"
+            },
+            {
+                "name": "forse",
+                "key": "forse",
+                "count": "1"
+            },
+            {
+                "name": "casa",
+                "key": "casa",
+                "count": "1"
+            },
+            {
+                "name": "sfuggito",
+                "key": "sfuggito",
+                "count": "1"
+            },
+            {
+                "name": "programma",
+                "key": "programma",
+                "count": "1"
+            },
+            {
+                "name": "realizzare",
+                "key": "realizzare",
+                "count": "1"
+            },
+            {
+                "name": "abbassare",
+                "key": "abbassare",
+                "count": "1"
+            },
+            {
+                "name": "gioia",
+                "key": "gioia",
+                "count": "1"
+            },
+            {
+                "name": "sentinelle",
+                "key": "sentinelle",
+                "count": "1"
+            },
+            {
+                "name": "aumento",
+                "key": "aumento",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "4",
+        "name": "democrazia",
+        "key": "democrazia",
+        "pages": [
+            {
+                "name": "bsaltamartini",
+                "key": "bsaltamartini",
+                "count": "4"
+            },
+            {
+                "name": "preferenze",
+                "key": "preferenze",
+                "count": "4"
+            },
+            {
+                "name": "elettori",
+                "key": "elettori",
+                "count": "4"
+            }
+        ]
+    },
+    {
+        "count": "3",
+        "name": "lavoro",
+        "key": "lavoro",
+        "pages": [
+            {
+                "name": "lavoro",
+                "key": "lavoro",
+                "count": 2
+            },
+            {
+                "name": "parte",
+                "key": "parte",
+                "count": 2
+            },
+            {
+                "name": "angealfa",
+                "key": "angealfa",
+                "count": "1"
+            },
+            {
+                "name": "urgenza",
+                "key": "urgenza",
+                "count": "1"
+            },
+            {
+                "name": "cerca",
+                "key": "cerca",
+                "count": "1"
+            },
+            {
+                "name": "capisce",
+                "key": "capisce",
+                "count": "1"
+            },
+            {
+                "name": "prima",
+                "key": "prima",
+                "count": "1"
+            },
+            {
+                "name": "bussola",
+                "key": "bussola",
+                "count": "1"
+            },
+            {
+                "name": "annuncia",
+                "key": "annuncia",
+                "count": "1"
+            },
+            {
+                "name": "riforma",
+                "key": "riforma",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "3",
+        "name": "italia",
+        "key": "italia",
+        "pages": [
+            {
+                "name": "primaillavoro",
+                "key": "primaillavoro",
+                "count": "1"
+            },
+            {
+                "name": "missione",
+                "key": "missione",
+                "count": "1"
+            },
+            {
+                "name": "giorni",
+                "key": "giorni",
+                "count": "1"
+            },
+            {
+                "name": "aderiamo",
+                "key": "aderiamo",
+                "count": "1"
+            },
+            {
+                "name": "soli",
+                "key": "soli",
+                "count": "1"
+            },
+            {
+                "name": "cambiare",
+                "key": "cambiare",
+                "count": "1"
+            },
+            {
+                "name": "deve",
+                "key": "deve",
+                "count": "1"
+            },
+            {
+                "name": "aderenti",
+                "key": "aderenti",
+                "count": "1"
+            },
+            {
+                "name": "tutta",
+                "key": "tutta",
+                "count": "1"
+            },
+            {
+                "name": "ripartire",
+                "key": "ripartire",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "2",
+        "name": "europee",
+        "key": "europee",
+        "pages": [
+            {
+                "name": "qualche",
+                "key": "qualche",
+                "count": "1"
+            },
+            {
+                "name": "ride",
+                "key": "ride",
+                "count": "1"
+            },
+            {
+                "name": "vicine",
+                "key": "vicine",
+                "count": "1"
+            },
+            {
+                "name": "elezioni",
+                "key": "elezioni",
+                "count": "1"
+            },
+            {
+                "name": "vediamo",
+                "key": "vediamo",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "renzi",
+        "key": "renzi",
+        "pages": [
+            {
+                "name": "riforma",
+                "key": "riforma",
+                "count": "1"
+            },
+            {
+                "name": "annuncia",
+                "key": "annuncia",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "italiani",
+        "key": "italiani",
+        "pages": [
+            {
+                "name": "scatole",
+                "key": "scatole",
+                "count": "1"
+            },
+            {
+                "name": "piene",
+                "key": "piene",
+                "count": "1"
+            },
+            {
+                "name": "angealfa",
+                "key": "angealfa",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "elezioni",
+        "key": "elezioni",
+        "pages": [
+            {
+                "name": "ride",
+                "key": "ride",
+                "count": "1"
+            },
+            {
+                "name": "europee",
+                "key": "europee",
+                "count": "1"
+            },
+            {
+                "name": "vediamo",
+                "key": "vediamo",
+                "count": "1"
+            },
+            {
+                "name": "grazie",
+                "key": "grazie",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "count": "1",
+        "name": "destra",
+        "key": "destra",
+        "pages": [
+            {
+                "name": "gabriele",
+                "key": "gabriele",
+                "count": "1"
+            },
+            {
+                "name": "benvenuto",
+                "key": "benvenuto",
+                "count": "1"
+            },
+            {
+                "name": "centro",
+                "key": "centro",
+                "count": "1"
+            },
+            {
+                "name": "nuovo",
+                "key": "nuovo",
+                "count": "1"
+            }
+        ]
+    }
+]

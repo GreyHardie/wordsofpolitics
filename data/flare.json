@@ -1,0 +1,227 @@
+data = [
+  {"name":"italia","count":5 , "color" : 1 , "y" :100 , "x" : 0  , "cy" :0.2 , "cx" : 0.2,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 100,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 200,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 300,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 400,
+      "position" :"right"
+    }
+    ]
+  },
+  {"name":"euro","count":20 , "color" : 2 , "y" :100 , "x" : 0 , "cy" :0.2 , "cx" : 0.2,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 100,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 300,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 200,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 50,
+      "position" :"right"
+    }
+    ]
+  },
+  {"name":"smth","count":20 , "color" : 1 , "y" :100 , "x" : 0 , "cy" :0.2 , "cx" : 0.2,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 20,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 200,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 30,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 0,
+      "position" :"right"
+    }
+    ]
+  },
+  {"name":"afairs","count":10 , "color" : 3 , "y" :10 , "x" : 10, "cy" :0.2 , "cx" : 0.2,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 100,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 0,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 0,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 0,
+      "position" :"right"
+    }
+    ]
+  },
+  {"name":"europe","count":5 , "color" : 1 , "y" :100 , "x" : 0  , "cy" :0.2 , "cx" : 0.2,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 100,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 200,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 300,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 400,
+      "position" :"right"
+    }
+    ]
+  },
+  {"name":"crap","count":20 , "color" : 1 , "y" :100 , "x" : 0 , "cy" :0.2 , "cx" : 0.2,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 100,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 200,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 300,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 400,
+      "position" :"right"
+    }
+    ]
+  },
+  {"name":"crap","count":20 , "color" : 5 , "y" :100 , "x" : 0 , "cy" :0.2 , "cx" : 0.2,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 100,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 200,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 300,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 400,
+      "position" :"right"
+    }
+    ]
+  },
+  {"name":"shit","count":10 , "color" : 1 , "y" :100 , "x" : 100, "cy" :0.8 , "cx" : 0.8,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 100,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 200,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 300,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 400,
+      "position" :"right"
+    }
+    ]
+  },
+  {"name":"fuck","count":2 , "color" : 1 , "y" :100 , "x" : 100 , "cy" :0.8 , "cx" : 0.8,
+
+    "countries" : [
+    {
+      "name":"Italy",
+      "count" : 100,
+      "position" :"top"
+    },
+    {
+      "name":"France",
+      "count" : 200,
+      "position" :"left"
+    },
+    {
+      "name":"Netherlands",
+      "count" : 300,
+      "position" :"bottom"
+    },
+    {
+      "name":"UK",
+      "count" : 400,
+      "position" :"right"
+    }
+    ]
+  }
+]

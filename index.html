@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <script src="js/d3.v3.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.scrollTo.js"></script>
+
+    <title>Right-wing populism in Europe</title>
+
+    <link rel="shortcut icon" href="http://getbootstrap.com/assets/ico/favicon.ico">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- <link href="css/navbar-fixed-top.css" rel="stylesheet"> -->
+
+
+    <!-- Custom styles for this template -->
+    <!-- <link href="css/navbar.css" rel="stylesheet"> -->
+	<link href="css/slider.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<style>
+			div.tooltip {
+		position: absolute;		/* reference for measurement */
+		text-align: center;
+		pointer-events: none;	/* 'none' tells the mouse to ignore the rectangle */
+		background: #FFFFEF;
+		width: 130px;
+		height: 120px;
+		padding: 10px;
+		border: 1px solid #D5D5D5;
+		font-family: arial,helvetica,sans-serif;
+		position: absolute;
+		font-size: 1.1em;
+		color: #333;
+		padding: 10px;
+		border-radius: 3px;
+		background: rgba(255,255,255,0.9);
+		color: #000;
+		box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+		-moz-box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+		border:1px solid rgba(200,200,200,0.85);
+	}
+
+	div.tooltip2 {
+		position: absolute;			/* reference for measurement */
+		text-align: center;
+		pointer-events: none;			/* 'none' tells the mouse to ignore the rectangle */
+		background: #FFFFEF;
+		width: 400px;
+		height: 500px;
+		padding: 10px;
+		border: 1px solid #D5D5D5;
+		font-family: arial,helvetica,sans-serif;
+		position: absolute;
+		font-size: 1.1em;
+		color: #333;
+		padding: 0px;
+		border-radius: 3px;
+		background: rgba(255,255,255,1);
+		color: #000;
+		box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+		-moz-box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+		border:1px solid rgba(200,200,200,0.85);
+	}
+
+	div.tooltipTail {
+		position: absolute;
+		left:-7px;
+		top: 72px;
+		width: 7px;
+		height: 13px;
+		background: url("images/tail_white.png") 50% 0%;
+	}
+
+	div.toolTipBody {
+		position:absolute;
+		height:100px;
+		width:230px;
+	}
+
+	div.header {
+		text-transform: uppercase;
+		text-align: center;
+		font-weight:bold;
+		font-size: 14px;
+		margin-bottom: 2px;
+		color:#666;
+		text-align:left;
+		width:136px;
+	}
+
+	div.header-rule{
+		height:1px;
+		margin:1px auto 3px;
+		margin-top:7px;
+		margin-bottom:7px;
+		background:#ddd;
+		margin-left:20px;
+		width:85px;
+	}
+
+	div.header1{
+		text-transform: uppercase;
+		text-align: left;
+		font-size: 12px;
+		margin-bottom: 2px;
+		color:#333;
+		text-align:left;
+		width:136px;
+	}
+
+	div.header2{
+		color:#000;
+		/*   text-transform:uppercase;*/
+		font-size: 11px;
+		text-align:left;
+		font-style:italic;
+		width:136px;
+	}
+
+	div.header3 {
+		font-size: 11px;
+		/*  width:170px;*/
+		text-align:center;
+	}
+
+	div.header4 {
+		/*  position:absolute;*/
+		right:10px;
+		top:28px;
+		font-size: 16px;
+		/*  width:100px;*/
+		text-align:center;
+		overflow:hidden;
+		font-weight:bold;
+	}
+
+	div.selected {
+		color: #000;
+		background: #e9e9e9;
+		border-color: #AAA;
+		box-shadow: inset 0px 0px 4px rgba(0,0,0,0.2);
+		padding-bottom:10px;
+	}
+#ex1Slider{
+  width: 250px;
+}
+#ex1Slider .slider-selection {
+  background: #BABABA;
+}
+
+
+  </style>
+  </head>
+
+  <body  <body onload='show_state("one","uk","euro");show_state("two","uk","euro");show_state("three","uk_all","euro");'>
+    <div class="container" style="box-shadow: 0 0 5px black; margin:0px ;  width:100% ;background-color: #858575;">
+		<div class="page-header" style="border-color:transparent; margin-top:2px; margin-right:15px;">
+			<img src="pics/logo_new_3.png"  align="left" style="margin-top:8px;"/>
+			<div class="row">
+			  
+			  <div class="btn-group btn-group-sm inline pull-right">
+				<button class="btn" data-toggle="modal" data-target="#about">About</button>
+				<button class="btn" data-toggle="modal" data-target="#howto">How to</button>
+				<button class="btn" data-toggle="modal" data-target="#credits">Credits</button>
+			</div>
+			</div>
+			
+			<!-- Modal about -->
+			<div class="modal fade" id="about" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			  <div class="modal-dialog">
+				<div class="modal-content">
+				  <div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title" id="myModalLabel">About</h4>
+				  </div>
+				  <div class="modal-body">
+					<p>In May of 2014 European citizens are electing a new European parliament. Opinion polls are forecasting an upsurge of right-wing populist parties.</p>
+
+<p>To study the political discourse of these parties, six students of the University of Amsterdam (see <em>Credits</em>) have built this visualization tool. It allows you to track the Twitter and Facebook accounts of the major right-wing populist parties in four European countries: <em>France</em>, <em>Italy</em>, <em>the Netherlands</em> and <em>the UK</em>.</p>
+
+<p>You can also monitor the accounts of a selection of extreme right-wing parties in these countries and of a number of traditional mainstream parties.</p>
+
+<p>The tool shows the words that are used on Facebook and Twitter, according to their respective frequencies. Moreover, to gain a deeper insight on the topics emerging, it shows co-occurrences. Finally, it allows you to compare words’ usage among different parties and countries.</p>
+
+<p>The tool is interactive, allowing you to dynamically explore the words and their relations. For further instructions please refer to the <em>How to</em> section.</p>
+				  </div>
+				  <div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			
+			<!-- Modal howto -->
+			<div class="modal fade" id="howto" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			  <div class="modal-dialog">
+				<div class="modal-content">
+				  <div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title" id="myModalLabel">How to</h4>
+				  </div>
+				  <div class="modal-body">
+					<p>This visualization has three views:</p><div class="se-section-delimiter"></div>
+
+<h4 id="view-1-country-overview">View 1 - Country overview</h4>
+
+<ul>
+<li>Shows word bubbles of the most frequently used words by the four countries considered. </li>
+<li>The word bubbles are color coded according to the country that uses them and the size of the bubble is proportional to the frequency of its use.</li>
+<li><strong>Double clicking</strong> on a country label focuses the view on that country and its words. Another <strong>double-click</strong> on the country label reverts the view back to the original state.</li>
+</ul><div class="se-section-delimiter"></div>
+
+<h4 id="view-2-political-party-overview">View 2 - Political party overview</h4>
+
+<ul>
+<li>Shows word bubbles of the most frequently used words by the political parties in a selected country <br>
+<ul><li>The country is selected by a <strong>single-click</strong> on the country label in <em>View 1</em></li></ul></li>
+<li>The word bubbles are color coded according to the country that uses them and the size of the bubble is proportional to the frequency of its use.</li>
+<li>The words are attracted to the political parties in proportion to their use, and this determines their positioning.</li>
+<li><strong>Double clicking</strong> on a political party label focuses the view on that party and its words. Another <strong>double-click</strong> on the party label reverts the view back to the original state.</li>
+<li><strong>Double clicking</strong> on a word focuses the view on that word and shows its usage amongst the parties. Another <strong>double-click</strong> on the word reverts the view back to the original state.</li>
+<li>In a focused view, edges or links are displayed between the words and the parties, the thickness of the edge is proportional to how frequently that word is used by the party.</li>
+</ul><div class="se-section-delimiter"></div>
+
+<h4 id="view-3-word-co-occurrence">View 3 - Word co-occurrence</h4>
+
+<ul>
+<li>Selecting a party and a word in <em>View 2</em>, populates this view. Selection is performed by a <strong>single-click</strong> on the party and word of interest.</li>
+<li>This view then shows usage of the word selected, for the party selected. If no party was selected then it is the words usage for all parties shown from that country.</li>
+<li>Distributed around the selected word are the words most commonly used together with the selected word (the <em>co-occurrences</em>). </li>
+<li>The word bubbles are color coded according to the country that uses them.</li>
+<li>The size of the selected word bubble is proportional to the frequency of its use.</li>
+<li>The size of the co-occurrence word bubbles are proportional to the frequency of co-occurrence.</li>
+<li>This view is divided into a left and a right side so that two words can be compared. By <strong>clicking</strong> on a side,  that side becomes selected and the word that appears in it will be changed by clicking in the previous views as described above. The selected side is clearly indicated by the word <em>“Selected!”</em> that appears on the appropriate side.</li>
+<li>Hovering the mouse over a word will display the original tweets from which the co-occurrences where extracted.</li>
+</ul>
+				  </div>
+				  <div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			
+			<!-- Modal credits -->
+			<div class="modal fade" id="credits" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			  <div class="modal-dialog">
+				<div class="modal-content">
+				  <div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title" id="myModalLabel">Credits</h4>
+				  </div>
+				  <div class="modal-body">
+<p>This tool was built by six students of the University of Amsterdam as part of their multidisciplinary master course <em>Information Visualization</em>. It was presented at the 7th annual <strong>Show Me the Data</strong> event on 27 March 2014 in Amsterdam.</p>
+
+<p>The students are:</p>
+
+<ul>
+<li>Henk van Appeven - <em>Information Sciences</em></li>
+<li>Stathis Charitos - <em>Artificial Intelligence</em></li>
+<li>Ariadna Matamoros Fernández - <em>New Media</em></li>
+<li>Cristina Garbacea - <em>Artificial Intelligence</em></li>
+<li>Graham Hardie - <em>Information Sciences</em></li>
+<li>Alessandro Piscopo - <em>Information Sciences</em></li>
+</ul>
+
+<p>We thank our instructors for their support and guidance:</p>
+
+<ul>
+<li>Marcel Worring - <em>Graduate School of Science (UVA)</em></li>
+<li>Jan Zahalka - <em>Intelligent Systems Lab (UVA)</em></li>
+<li>Yuri Engelhardt - <em>Faculty of Humanities (UVA)</em></li>
+<li>Michele Mauri - <em>Design Department (Politecnico Milan)</em></li>
+</ul>
+
+<p>For further information please contact: <strong>henk.vanappeven <em>at</em> student.uva.nl</strong> <br>
+For information on Show Me the Data please visit the event’s website at <em><a href="http://showmethedata.nl">http://showmethedata.nl</a></em></p>
+				  </div>
+				  <div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+	  </div>
+
+      <!-- Static navbar -->
+      <div class="navbar navbar-inverse" role="navigation" >
+        <div class="container-fluid">
+           <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#F4F4F4;">France<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">All parties</a></li>
+                  <li><a href="#">Populist parties</a></li>
+                  <li><a href="#">Extreme right parties</a></li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">Parties</li>
+                  <li><a href="#">Front National</a></li>
+                  <li><a href="#">Bloc Identitaire</a></li>
+				  <li><a href="#">NDP</a></li>
+				  <li><a href="#">MDF</a></li>
+				  <li><a href="#">MNR</a></li>
+                </ul>
+              </li>
+			  <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#F4F4F4;">Italy<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">All Parties</a></li>
+                  <li><a href="#">Populist parties</a></li>
+                  <li><a href="#">Extreme right parties</a></li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">Parties</li>
+                  <li><a class="party" href="#">Lega Nord</a></li>
+                  <li><a class="party" href="#">Casa Pound</a></li>
+				  <li><a class="party" href="#">Fiamma Tricolore</a></li>
+				  <li><a class="party" href="#">Alternativa Tricolore</a></li>
+				  <li><a class="party" href="#">la Destra</a></li>
+				  <li><a class="party" href="#">Fronte Nazionale</a></li>
+				  <li><a class="party" href="#">Forza Nuova</a></li>
+				  <li><a class="party" href="#">Militia Christi</a></li>
+				  <li><a class="party" href="#">Socialismo Nazionale</a></li>
+				  <li><a class="party" href="#">Io amo l Italia</a></li>			  
+                </ul>
+              </li>
+			  <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#F4F4F4;">The Netherlands<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">All parties</a></li>
+                  <li><a href="#">Populist parties</a></li>
+                  <li><a href="#">Extreme right parties</a></li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">Parties</li>
+                  <li><a class="party" href="#">PVV</a></li>
+                  <li><a class="party" href="#">Voorpost</a></li>
+				  <li><a class="party" href="#">Zwartfront</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#F4F4F4;">United Kingdom<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">All parties</a></li>
+                  <li><a href="#">Populist parties</a></li>
+                  <li><a href="#">Extreme right parties</a></li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">Parties</li>
+                  <li><a class="party" href="#">UKIP</a></li>
+                  <li><a class="party" href="#">BNP</a></li>
+				  <li><a class="party" href="#">EDL</a></li>
+				  <li><a class="party" href="#">National Front</a></li>
+                </ul>
+              </li>
+			  <li class="disabled"><a href=#>Add mainstream parties</a></li>
+            </ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li class="navbar-text" >Sources</li>
+				<li class="btn-group " >
+				<button type="button" class="btn btn-default navbar-btn">
+					<img  src="pics/Twitter_logo_white.png" height="18px"/>
+				</button>
+				<button type="button" class="btn btn-default navbar-btn">
+					<img src="pics/FB-f-Logo__blue_29.png" height="18px"/>
+				</button>
+				
+			</li> <!-- /btn-group -->
+              
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+		
+		
+     </div>
+	 
+	
+		
+
+      <!-- Main component for a primary marketing message or call to action -->
+      <div style="background-color: #858575; margin-top:20px; ">
+      
+      </div>
+      <div style="height:50px; background-color:black; margin-top:-22px; "><h1 style="color:#eee;"> All Countries</h1></div>
+      <div id="state_one"></div>
+      <div style="height:50px;background-color:black; margin-top:-22px; color:white;"></div>
+      <div style="height:50px;background-color:#eee ; color:black; margin-top:-22px;"><h1 style="color:black;"><span id="spnCountry"></span> Parties</h1></div>
+      <div id="state_two"></div>
+      <div style="height:50px;background-color:#eee;color;margin-top:-22px;"></div>
+      <div style="height:50px;background-color:black;color:eee;margin-top:-22px;"><h1 style="color:#eee;">Term Co-occurrences</h1></div>
+	  
+	  <!-- Tooltip -->
+	  <div id="toolTip" class="tooltip" style="opacity:0;">
+			<div id="head" class="header"></div>
+			<!-- <div id="header1" class="header1"></div>
+			<div id="header2" class="header2"></div> -->
+			<div style="position:absolute; left:10px;">
+				<div id="federalDiv" style="width:115px; left:0px; top:10px; position: absolute;" class="selected">
+					<div class="header3">Total Count:</div>
+					<div class="header-rule"></div>
+					<div id="fedSpend" class="header4"></div>
+				</div>
+				<!-- <div id="stateDiv" style="width:125px; left:120px; top:10px; height: 75px; position: absolute; background-color:#9FF781;">
+					<div class="header3"><br>Italy</div>
+					<div class="header-rule"></div>
+					<div id="itSpend" class="header4"></div>
+				</div>
+				<div id="localDiv" style="width:125px; left:252px; top:10px; height: 75px; position: absolute; background-color:#6B8BFF;">
+					<div class="header3"><br>France</div>
+					<div class="header-rule"></div>
+					<div id="frSpend" class="header4"></div>
+				</div>
+				<div id="stateDiv" style="width:125px; left:120px; top:-60px; height: 75px; margin-bottom:5px; position: absolute; background-color:#E780DC;">
+					<div class="header3"><br>United Kingdom</div>
+					<div class="header-rule"></div>
+					<div id="ukSpend" class="header4"></div>
+				</div>
+				<div id="localDiv" style="width:125px; left:252px; top:-60px; height: 75px; margin-bottom:5px; position: absolute; background-color:#FAB333;">
+					<div class="header3"><br>Netherlands</div>
+					<div class="header-rule"></div>
+					<div id="nlSpend" class="header4"></div>
+				</div> -->
+			</div>
+			<div  class="tooltipTail"></div> 
+			</div> 
+	  <!-- Tooltip -->
+
+	  <!-- Twitter -->
+	  <div id="tweets" class="tooltip2" style="width:400px; height:500px; overflow-x: hidden; overflow-y:scroll; float:left; margin-left:0px; border:1px solid black; opacity:0px; position:fixed;"></div>
+      <!-- Twitter -->
+	  
+      <div id ="selection" style="height:50px;background-color:black;color:eee;margin-top:-22px; text-align:left"><h1 style="color:#eee;">Selected!</h1></div>
+      <div id="state_three_one" style="float:left;width:50%"></div>
+      <div id="state_three_two" style="float:right;width:50%"></div>
+
+      
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- <script src="js/jquery.js"></script> -->
+    <script src="js/bootstrap.js"></script>
+	<script src="js/bootstrap-slider.js"></script>
+    <script src="js/functions.js"></script>
+	<script type="text/javascript">
+
+
+$('#ex1').slider({
+  formater: function(value) {
+    return 'Current value: ' + value;
+  }
+});
+
+</script>
+  
+
+</body></html>

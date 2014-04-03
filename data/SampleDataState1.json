@@ -1,0 +1,72 @@
+[
+    {
+        "count": 2214.0, 
+        "name": "mlp_officiel", 
+        "key": "mlp_officiel", 
+        "pages": [
+			{
+                "count": 800.0, 
+                "url": "FRParty", 
+                "name": "FRANCE", 
+                "key": "FRParty", 
+                "title": "FRParty"
+            },
+            {
+                "count": 2156.0, 
+                "url": "ITParty", 
+                "name": "ITALY", 
+                "key": "ITParty", 
+                "title": "ITParty"
+            },
+			{
+                "count": 600.0, 
+                "url": "UKParty", 
+                "name": "UNITED KINGDOM", 
+                "key": "UKParty", 
+                "title": "UKParty"
+            },
+			{
+                "count": 600.0, 
+                "url": "NLParty1", 
+                "name": "NETHERLANDS", 
+                "key": "NLParty1", 
+                "title": "NLParty1"
+            }
+		]
+    },
+	{
+		"count": 650.0, 
+        "name": "avoir", 
+        "key": "avoir", 
+        "pages": [
+            {
+                "count": 50, 
+                "url": "ITParty", 
+                "name": "ITALY", 
+                "key": "ITParty", 
+                "title": "ITParty"
+            }, 
+            {
+                "count": 100.0, 
+                "url": "FRParty", 
+                "name": "FRANCE", 
+                "key": "FRParty", 
+                "title": "FRParty"
+            },
+			{
+                "count": 200.0, 
+                "url": "UKParty", 
+                "name": "UNITED KINGDOM", 
+                "key": "UKParty", 
+                "title": "UKParty"
+            },
+			{
+                "count": 800.0, 
+                "url": "NLParty1", 
+                "name": "NETHERLANDS", 
+                "key": "NLParty1", 
+                "title": "NLParty1"
+            }
+        ]
+    }
+]

@@ -27,8 +27,7 @@ How to
 <h4 id="view-2-political-party-overview">View 2 - Political party overview</h4>
 
 <ul>
-<li>Shows word bubbles of the most frequently used words by the political parties in a selected country <br>
-<ul><li>The country is selected by a <strong>single-click</strong> on the country label in <em>View 1</em></li></ul></li>
+<li>Shows word bubbles of the most frequently used words by the political parties in a selected country. The country is selected by a <strong>single-click</strong> on the country label in <em>View 1</em></li>
 <li>The word bubbles are color coded according to the country that uses them and the size of the bubble is proportional to the frequency of its use.</li>
 <li>The words are attracted to the political parties in proportion to their use, and this determines their positioning.</li>
 <li><strong>Double clicking</strong> on a political party label focuses the view on that party and its words. Another <strong>double-click</strong> on the party label reverts the view back to the original state.</li>
@@ -46,7 +45,7 @@ How to
 <li>The size of the selected word bubble is proportional to the frequency of its use.</li>
 <li>The size of the co-occurrence word bubbles are proportional to the frequency of co-occurrence.</li>
 <li>This view is divided into a left and a right side so that two words can be compared. By <strong>clicking</strong> on a side,  that side becomes selected and the word that appears in it will be changed by clicking in the previous views as described above. The selected side is clearly indicated by the word <em>“Selected!”</em> that appears on the appropriate side.</li>
-<li>Hovering the mouse over a word will display the original tweets from which the co-occurrences where extracted.</li>
+<li><strong>Hovering</strong> the mouse over a word will display the original tweets from which the co-occurrences were extracted.</li>
 </ul>
 
 Credits
